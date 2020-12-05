@@ -1,0 +1,20 @@
+# identity_string	x_min	y_min	x_max	y_max
+nt/dmod/node_view	1602	263	2187	785
+System/tool_dialog	725	492	1204	876
+oms/link_port_connectivity	837	213	1104	330
+nt/obj_model_choose,object_palette	411	155	952	660
+project/tool_dialog,JF_DR_Manet_Project	1723	283	3273	1193
+ex/sim_progress	-737	106	-32	601
+mmi/toolop/Prompt	745	418	1032	490
+an/view_results	-110	142	804	844
+System/msearch_expression	469	249	802	504
+mmi/tool_dialog,eth4_slip4_multihomed_server_adv	922	315	1681	914
+obj/compound_vertical	1038	383	1420	586
+mmi/toolop/New	10	2	243	79
+mmi/toolop/Confirm2lines	626	353	913	439
+mmi/suppress_prompt_dlg	415	151	912	274
+mmi/edit_pad	261	245	761	545
+an/unified_viewer	209	474	970	1064
+oms/oms_distribution_dbox	515	705	798	832
+nt/trajectory/waypath_edit	1080	709	1767	1074
+mmi/tool_dialog,wlan_ethernet_router_adv	637	420	1396	1019

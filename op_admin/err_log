@@ -1,0 +1,30 @@
+
+<<< Unhandled Exception >>>
+The following chain of information is available:
+    error 1: /Return/
+	message: X I/O error: connection lost
+	module: vwineventsys
+	file: event.c
+	line: 713
+	errno: 11: Resource temporarily unavailable
+
+<<< Program Abort >>>
+  * Time:      01:25:46 Fri Dec 4 2020
+  * Product:   modeler (64-bit)
+  * Program:   modeler (Version 18.6.1 Build 20050 64-bit)
+  * System:    Linux eesfc67.engr.ccny.cuny.edu 3.10.0-957.12.2.el7.x86_64 #1 SMP Tue May 14 21:24:32 UTC 2019 x86_64
+  * Package:   Vos (Virtual Operating System)
+  * Function:  vos_event_loop
+  * Error:     unhandled vex exception
+
+  * Function call stack: (builds down)
+    ------------------------------------------------------------
+             Call   Block
+             Count  Line#  Function
+    ------------------------------------------------------------
+     0)          1    153  0x8a115e07 [name not available]
+     1)          1   2211  0x84307c15 [name not available]
+     2)          1   1102  0x2403d402 [name not available]
+     3)          1    146  vos_event_loop
+    ------------------------------------------------------------
+

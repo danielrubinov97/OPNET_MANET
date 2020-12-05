@@ -1,0 +1,1063 @@
+# Environment file
+# Created automatically on 22:33:21 Fri Dec 04 2020 for program modeler.
+
+_locale             : "C"
+
+_oprel_version      : 18.6
+
+_oprel_path         : "/usr/riverbed/18.6"
+
+ace_application_capture_console_location: eesfc67.engr.ccny.cuny.edu
+
+ace_application_capture_promisc_warn: FALSE
+
+ace_decoder_disabled_protocols: "vnc, drda, fcip, tns"
+
+ace_external_decoder_dont_decode_above_http_list: daap*
+
+ace_external_decoder_prog: tshark
+
+ace_import_auto_preprocess_file_extension_list: .cap,
+                      .dmp.gz,
+                      .appcapz
+
+ace_import_wan_cisco_ports: 4050
+
+ace_import_wan_juniper_ports: 3577,
+                      3578
+
+ace_import_wan_protocol_ids: 50,
+                      51,
+                      108
+
+ace_import_wan_riverbed_ports: 7800,
+                      7801,
+                      7810,
+                      7744,
+                      7850,
+                      7860
+
+ace_preprocessor_progs: op_external_decoder_to_appcapture
+
+advisories.connection_timeout: 5
+
+advisories.https_port: 443
+
+advisories.log_debug: FALSE
+
+advisories.max_download_logs: 25
+
+advisories.maximum_server_connection_attempts: 3
+
+advisories.netdoctor_templates: "Security Rules - Advisories"
+
+advisories.primary_server: sas.opnet.com
+
+advisories.proxy_password: ""
+
+advisories.proxy_port: 80
+
+advisories.proxy_server: ""
+
+advisories.proxy_username: ""
+
+advisories.sentinel_advisory_service_home_page: "https://sas.opnet.com"
+
+advisories.url_suffix: updates/sentinel/download
+
+advisories.use_proxy: FALSE
+
+ai_auto_assign_ip_addresses: TRUE
+
+ai_debug            : FALSE
+
+ai_filter_domain_name: TRUE
+
+ai_filter_right_click_items: TRUE
+
+ai_ignore_vnes_inferred_star_hops: TRUE
+
+ai_include_collected_output_files: TRUE
+
+ai_include_forwarding_tables: FALSE
+
+ai_internal_hops_list: 10.0.0.0/8,
+                      172.16.0.0/12,
+                      192.168.0.0/16
+
+ai_max_follow_up_req: 100
+
+ai_merge_star_hops  : TRUE
+
+ai_merge_star_hops_max: FALSE
+
+automatically_select_probe: TRUE
+
+browser_prog        : firefox
+
+comp_flags_common   : " -DOP_ODK_APIS -I/usr/riverbed/18.6/models/std/include"
+
+cpam_import.default_assist_files: ""
+
+cpam_import.ignore_protocol_link_oper_status: FALSE
+
+cpam_import.import_debug: FALSE
+
+cpam_import.logging : FALSE
+
+cpam_import.server_port: 8080
+
+cpam_import.skip_cpam_server_connection: FALSE
+
+cpam_import.traffic_data_duration: 2
+
+cpam_import.use_model_assistant: FALSE
+
+des.configuration_mode: detailed
+
+device_import.backup_imported_files: TRUE
+
+device_import.copy_newly_assigned_configlet: FALSE
+
+device_import.create_ebgp_node: FALSE
+
+device_import.create_edge_lans: FALSE
+
+device_import.create_import_summary_file: TRUE
+
+device_import.create_logical_subnets: TRUE
+
+device_import.create_management_interfaces: FALSE
+
+device_import.create_pvc: TRUE
+
+device_import.create_serial_cloud: TRUE
+
+device_import.create_sw_to_conn_aggr_intf: FALSE
+
+device_import.default_assist_files: ""
+
+device_import.destroy_empty_subnet: FALSE
+
+device_import.disable_automatic_topology_layout: FALSE
+
+device_import.display_interface_assistant: "Only if required"
+
+device_import.duplicate_scenario_before_import: FALSE
+
+device_import.ebgp_topology: NONE
+
+device_import.group_logical_routers: TRUE
+
+device_import.ia_atm_default_data_rate: 1.5552e+08
+
+device_import.ia_serial_default_data_rate: 1.544e+06
+
+device_import.import_voip_configuration: TRUE
+
+device_import.infer_bgp_peers_from_shutdown_interfaces: FALSE
+
+device_import.layer3_only_import: FALSE
+
+device_import.log_skipped_show: FALSE
+
+device_import.logging: FALSE
+
+device_import.parse_ip_route: TRUE
+
+device_import.parser_debug: FALSE
+
+device_import.parser_init_timeout: 60
+
+device_import.parser_max_64bit_memory: 2000
+
+device_import.parser_max_memory: 1116
+
+device_import.parser_port: 3101
+
+device_import.parser_status_timeout: 30
+
+device_import.parser_use_internal_loopback_as_localhost: FALSE
+
+device_import.show_complete_configlet_path: FALSE
+
+device_import.show_import_summary: TRUE
+
+device_import.show_interfaces_ma_message: TRUE
+
+device_import.show_unconnected_interfaces_in_ia: FALSE
+
+device_import.skip_oper_down_interface_from_link_inference: FALSE
+
+device_import.skip_partial_devices: FALSE
+
+device_import.tunnel_cloud_import: TRUE
+
+device_import.tunnel_cloud_import_use_default: TRUE
+
+device_import.tunnel_cloud_import_use_static: TRUE
+
+device_import.use_bandwidth_for_datarate: TRUE
+
+device_import.use_bandwidth_for_ethernet_datarate: FALSE
+
+device_import.use_inferred_speed_for_auto_speed: TRUE
+
+device_import.use_model_assistant: TRUE
+
+device_import.use_vrf_interface_for_link_inference: TRUE
+
+fa_atm_circuit_deletions_enable: FALSE
+
+flan_allow_inbound_policies_on_rib_routes: FALSE
+
+flan_max_bgp_iterations: 100
+
+flow_analysis_advertise_loopbacks_only: FALSE
+
+flow_analysis_detailed_log_max_rows: 5000
+
+flow_analysis_generate_report_on_demand: TRUE
+
+flow_analysis_hide_report_save_dialog: FALSE
+
+flow_analysis_interface_baseline_load_direction: Outgoing
+
+flow_analysis_interval_size_computation_mode: "Most common interval"
+
+flow_analysis_lsp_least_bandwidth_first: FALSE
+
+flow_analysis_max_bgp_alt_route: "No Limit"
+
+flow_analysis_max_num_interval: 200
+
+flow_analysis_maximum_decimal_places: 0
+
+flow_analysis_network_mode: Packet-Switched
+
+flow_analysis_perform_bgp_withdrawal: TRUE
+
+flow_analysis_random_seed_for_cspf: 5
+
+flow_analysis_random_seed_for_load_balancing: 1
+
+flow_analysis_report_schema: v1
+
+flow_analysis_save_to_database: TRUE
+
+flow_analysis_show_atm_tab_in_flan_dlg: FALSE
+
+flow_analysis_show_tech_selection_tab_in_flan_dlg: FALSE
+
+godb.debugger_visualizations: IP_Routing;odb_vis_iprte;simviz
+
+inv.log_debug       : FALSE
+
+inv.max_download_logs: 25
+
+inv.max_inv_logs_per_scenario: 5
+
+inv.report_include_copyright_notice: TRUE
+
+inv.report_include_report_options: FALSE
+
+inv.report_send_to_report_server: FALSE
+
+inv.use_custom_colors: TRUE
+
+ip_flow_analysis_mapping_debug_dir: ""
+
+ip_flow_analysis_random_seed_to_order_lsps: 0
+
+ip_flow_analysis_suppress_intervals_warning: FALSE
+
+ip_flow_analysis_suppress_max_routes_limit_warning: FALSE
+
+ip_flow_analysis_temp_dir: /tmp/
+
+ip_flow_analysis_ui_link_util_limits: "0, 0, 50, 75"
+
+ip_flow_analysis_ui_route_color1: "#FFFF00"
+
+ip_flow_analysis_ui_route_color2: "#FF00FF"
+
+ip_flow_analysis_ui_route_color3: "#AAFFAA"
+
+ip_flow_analysis_ui_route_color4: "#0000FF"
+
+ip_flow_analysis_ui_route_color5: "#FF8000"
+
+ip_flow_analysis_ui_route_color6: "#AAFFFF"
+
+ip_flow_analysis_ui_route_color7: "#5555FF"
+
+ip_flow_analysis_ui_route_color8: "#FFAAAA"
+
+ip_flow_analysis_ui_route_line_thickness: 5
+
+ip_flow_analysis_ui_route_line_type: Solid
+
+ip_flow_analysis_ui_route_max_num: 50
+
+ip_flow_analysis_warn_on_unassigned_ip_address: FALSE
+
+ip_mapping_report_prepopulate: TRUE
+
+lfa_visualization.color_map: "0.000000:0.000000:0:#FF0000",
+                      "0.000000:25.000000:0:#FFFF00",
+                      "25.000000:50.000000:0:#FF8000",
+                      "50.000000:75.000000:0:#00FFFF",
+                      "75.000000:-1.000000:0:#00FF00"
+
+lfa_visualization.display_values: FALSE
+
+mcr.record_information: TRUE
+
+mod_dirs            : /home/drubino000/op_models,
+                      /home/drubino000/opnetProject/op_models/,
+                      /usr/riverbed/18.6/sys/lib,
+                      /usr/riverbed/18.6/sys/icons,
+                      /usr/riverbed/18.6/sys/images,
+                      /usr/riverbed/18.6/sys/include,
+                      /usr/riverbed/18.6/sys/images/maps,
+                      /usr/riverbed/18.6/sys/configs,
+                      /usr/riverbed/18.6/sys/help,
+                      /usr/riverbed/18.6/sys/utilities,
+                      /usr/riverbed/18.6/sys/utilities/3dnv,
+                      /usr/riverbed/18.6/sys/utilities/tmm,
+                      /usr/riverbed/18.6/sys/utilities/hla,
+                      /usr/riverbed/18.6/sys/utilities/sitl,
+                      /usr/riverbed/18.6/sys/reports/stylesheets,
+                      /home/drubino000/op_admin/ace_logs,
+                      /home/drubino000/op_admin/rmc/logs,
+                      /usr/riverbed/18.6/models/std/rrp,
+                      /usr/riverbed/18.6/models/std/eigrp,
+                      /usr/riverbed/18.6/models/std/ethernet,
+                      /usr/riverbed/18.6/models/std/pricing,
+                      /usr/riverbed/18.6/models/std/pricing/utilities,
+                      /usr/riverbed/18.6/models/std/include,
+                      /usr/riverbed/18.6/models/std/zigbee,
+                      /usr/riverbed/18.6/models/std/lane,
+                      /usr/riverbed/18.6/models/std/lte,
+                      /usr/riverbed/18.6/models/std/voice,
+                      /usr/riverbed/18.6/models/std/haipe,
+                      /usr/riverbed/18.6/models/std/demands,
+                      /usr/riverbed/18.6/models/std/icons,
+                      /usr/riverbed/18.6/models/std/3dnv_examples,
+                      /usr/riverbed/18.6/models/std/links,
+                      /usr/riverbed/18.6/models/std/sdn,
+                      /usr/riverbed/18.6/models/std/atv,
+                      /usr/riverbed/18.6/models/std/pnni,
+                      /usr/riverbed/18.6/models/std/msdp,
+                      /usr/riverbed/18.6/models/std/web_reports,
+                      /usr/riverbed/18.6/models/std/ethcoax,
+                      /usr/riverbed/18.6/models/std/gdc,
+                      /usr/riverbed/18.6/models/std/mainframe,
+                      /usr/riverbed/18.6/models/std/mainframe/SAS,
+                      /usr/riverbed/18.6/models/std/mainframe/SAS/MXG,
+                      /usr/riverbed/18.6/models/std/mainframe/SAS/NeuMICS,
+                      /usr/riverbed/18.6/models/std/mainframe/Excel,
+                      /usr/riverbed/18.6/models/std/applications,
+                      /usr/riverbed/18.6/models/std/xdsl,
+                      /usr/riverbed/18.6/models/std/ospf,
+                      /usr/riverbed/18.6/models/std/wireless,
+                      /usr/riverbed/18.6/models/std/wireless/wireless_wizard,
+                      /usr/riverbed/18.6/models/std/wireless/wrls_phy_mpath_data_files,
+                      /usr/riverbed/18.6/models/std/wireless/smac,
+                      /usr/riverbed/18.6/models/std/inet,
+                      /usr/riverbed/18.6/models/std/tpal,
+                      /usr/riverbed/18.6/models/std/example_networks,
+                      /usr/riverbed/18.6/models/std/example_networks/Common,
+                      /usr/riverbed/18.6/models/std/example_networks/Common/traffic,
+                      /usr/riverbed/18.6/models/std/example_networks/Common/traffic/time_varying,
+                      /usr/riverbed/18.6/models/std/example_networks/Common/traffic/one_time_period,
+                      /usr/riverbed/18.6/models/std/example_networks/Modeler,
+                      /usr/riverbed/18.6/models/std/example_networks/Modeler/parallel_simulations,
+                      /usr/riverbed/18.6/models/std/example_networks/ModelerAE,
+                      /usr/riverbed/18.6/models/std/rip,
+                      /usr/riverbed/18.6/models/std/ike,
+                      /usr/riverbed/18.6/models/std/utilities,
+                      /usr/riverbed/18.6/models/std/utilities/netone,
+                      /usr/riverbed/18.6/models/std/utilities/netmapper,
+                      /usr/riverbed/18.6/models/std/utilities/netdiff,
+                      /usr/riverbed/18.6/models/std/utilities/netdiff/config_file_diff_css,
+                      /usr/riverbed/18.6/models/std/utilities/ctr,
+                      /usr/riverbed/18.6/models/std/utilities/ctr/des_profiles,
+                      /usr/riverbed/18.6/models/std/utilities/ctr/profiles,
+                      /usr/riverbed/18.6/models/std/utilities/ctr/en_US,
+                      /usr/riverbed/18.6/models/std/utilities/ctr/ext,
+                      /usr/riverbed/18.6/models/std/utilities/import,
+                      /usr/riverbed/18.6/models/std/utilities/import/csv,
+                      /usr/riverbed/18.6/models/std/utilities/import/csv/interface_naming_rules,
+                      /usr/riverbed/18.6/models/std/utilities/import/csv/config,
+                      /usr/riverbed/18.6/models/std/utilities/import/rci,
+                      /usr/riverbed/18.6/models/std/utilities/import/imex_dste,
+                      /usr/riverbed/18.6/models/std/utilities/import/ai,
+                      /usr/riverbed/18.6/models/std/utilities/import/vnes,
+                      /usr/riverbed/18.6/models/std/utilities/pnm,
+                      /usr/riverbed/18.6/models/std/utilities/port_scan,
+                      /usr/riverbed/18.6/models/std/utilities/inv,
+                      /usr/riverbed/18.6/models/std/utilities/inv/en_US,
+                      /usr/riverbed/18.6/models/std/utilities/views,
+                      /usr/riverbed/18.6/models/std/utilities/osc,
+                      /usr/riverbed/18.6/models/std/utilities/osc/en_US,
+                      /usr/riverbed/18.6/models/std/utilities/device_creator,
+                      /usr/riverbed/18.6/models/std/utilities/device_creator/generic,
+                      /usr/riverbed/18.6/models/std/utilities/device_creator/vendor,
+                      /usr/riverbed/18.6/models/std/utilities/design,
+                      /usr/riverbed/18.6/models/std/utilities/design/igp_te,
+                      /usr/riverbed/18.6/models/std/utilities/design/mpls_te,
+                      /usr/riverbed/18.6/models/std/utilities/design/lfa,
+                      /usr/riverbed/18.6/models/std/utilities/design/topo,
+                      /usr/riverbed/18.6/models/std/utilities/design/base,
+                      /usr/riverbed/18.6/models/std/utilities/design/mpls,
+                      /usr/riverbed/18.6/models/std/utilities/design/mpls_qp,
+                      /usr/riverbed/18.6/models/std/utilities/groups,
+                      /usr/riverbed/18.6/models/std/utilities/udr,
+                      /usr/riverbed/18.6/models/std/utilities/packet_analyzer,
+                      /usr/riverbed/18.6/models/std/utilities/odb_vis,
+                      /usr/riverbed/18.6/models/std/utilities/netdoctor,
+                      /usr/riverbed/18.6/models/std/utilities/netdoctor/en_US,
+                      /usr/riverbed/18.6/models/std/utilities/flowan,
+                      /usr/riverbed/18.6/models/std/utilities/flowan/failure_impact_analysis,
+                      /usr/riverbed/18.6/models/std/utilities/flowan/voip,
+                      /usr/riverbed/18.6/models/std/utilities/flowan/capplan,
+                      /usr/riverbed/18.6/models/std/utilities/flowan/ipv6,
+                      /usr/riverbed/18.6/models/std/utilities/common,
+                      /usr/riverbed/18.6/models/std/utilities/oms,
+                      /usr/riverbed/18.6/models/std/utilities/oms/mdets,
+                      /usr/riverbed/18.6/models/std/utilities/oms/mdets/include,
+                      /usr/riverbed/18.6/models/std/utilities/oms/mdets/conn,
+                      /usr/riverbed/18.6/models/std/utilities/oms/mdets/base,
+                      /usr/riverbed/18.6/models/std/utilities/oms/ets,
+                      /usr/riverbed/18.6/models/std/utilities/oms/ets/conn,
+                      /usr/riverbed/18.6/models/std/utilities/oms/ets/base,
+                      /usr/riverbed/18.6/models/std/utilities/oms/svc,
+                      /usr/riverbed/18.6/models/std/utilities/oms/bgp,
+                      /usr/riverbed/18.6/models/std/utilities/oms/peer,
+                      /usr/riverbed/18.6/models/std/lapb,
+                      /usr/riverbed/18.6/models/std/tdma,
+                      /usr/riverbed/18.6/models/std/h323,
+                      /usr/riverbed/18.6/models/std/tr,
+                      /usr/riverbed/18.6/models/std/ip,
+                      /usr/riverbed/18.6/models/std/ip/ipv6_readiness,
+                      /usr/riverbed/18.6/models/std/ip/ipv6_readiness/en_US,
+                      /usr/riverbed/18.6/models/std/ip/utilities,
+                      /usr/riverbed/18.6/models/std/bgp,
+                      /usr/riverbed/18.6/models/std/advisories,
+                      /usr/riverbed/18.6/models/std/traf_gen,
+                      /usr/riverbed/18.6/models/std/tutorial_req,
+                      /usr/riverbed/18.6/models/std/tutorial_req/module,
+                      /usr/riverbed/18.6/models/std/tutorial_req/module/3dnv,
+                      /usr/riverbed/18.6/models/std/tutorial_req/module/hla,
+                      /usr/riverbed/18.6/models/std/tutorial_req/module/MVI_NetDoctor_configs,
+                      /usr/riverbed/18.6/models/std/tutorial_req/module/MVI_NetDoctor_configs/DataSet3_MissingVLANInformation,
+                      /usr/riverbed/18.6/models/std/tutorial_req/module/MVI_NetDoctor_configs/DataSet1_Layer3Only,
+                      /usr/riverbed/18.6/models/std/tutorial_req/module/MVI_NetDoctor_configs/DataSet2_ConfigOnly,
+                      /usr/riverbed/18.6/models/std/tutorial_req/module/MVI_NetDoctor_configs/DataSet4_Complete,
+                      /usr/riverbed/18.6/models/std/tutorial_req/module/configs,
+                      /usr/riverbed/18.6/models/std/tutorial_req/module/configs/baseline,
+                      /usr/riverbed/18.6/models/std/tutorial_req/module/configs/with_areas_broken,
+                      /usr/riverbed/18.6/models/std/tutorial_req/module/traffic,
+                      /usr/riverbed/18.6/models/std/tutorial_req/sentinel,
+                      /usr/riverbed/18.6/models/std/tutorial_req/sentinel/quickstart_configs,
+                      /usr/riverbed/18.6/models/std/tutorial_req/basic,
+                      /usr/riverbed/18.6/models/std/tutorial_req/basic/traffic,
+                      /usr/riverbed/18.6/models/std/tutorial_req/modeler,
+                      /usr/riverbed/18.6/models/std/manet,
+                      /usr/riverbed/18.6/models/std/base,
+                      /usr/riverbed/18.6/models/std/bridges,
+                      /usr/riverbed/18.6/models/std/fddi,
+                      /usr/riverbed/18.6/models/std/l2tp,
+                      /usr/riverbed/18.6/models/std/dhcp,
+                      /usr/riverbed/18.6/models/std/wimax,
+                      /usr/riverbed/18.6/models/std/mpls,
+                      /usr/riverbed/18.6/models/std/jammers,
+                      /usr/riverbed/18.6/models/std/rohc,
+                      /usr/riverbed/18.6/models/std/atm,
+                      /usr/riverbed/18.6/models/std/servers,
+                      /usr/riverbed/18.6/models/std/servers/agents,
+                      /usr/riverbed/18.6/models/std/servers/agents/OpenView,
+                      /usr/riverbed/18.6/models/std/servers/agents/OpenView/unix,
+                      /usr/riverbed/18.6/models/std/servers/agents/OpenView/nt,
+                      /usr/riverbed/18.6/models/std/servers/agents/Perfmon,
+                      /usr/riverbed/18.6/models/std/servers/agents/BMC,
+                      /usr/riverbed/18.6/models/std/servers/agents/BMC/unix,
+                      /usr/riverbed/18.6/models/std/servers/agents/BMC/nt,
+                      /usr/riverbed/18.6/models/std/servers/agents/NetIQ,
+                      /usr/riverbed/18.6/models/std/servers/agents/NetIQ/4.0,
+                      /usr/riverbed/18.6/models/std/servers/agents/NetIQ/5.0,
+                      /usr/riverbed/18.6/models/std/fc,
+                      /usr/riverbed/18.6/models/std/sna,
+                      /usr/riverbed/18.6/models/std/x25,
+                      /usr/riverbed/18.6/models/std/cyber,
+                      /usr/riverbed/18.6/models/std/tcp,
+                      /usr/riverbed/18.6/models/std/frelay,
+                      /usr/riverbed/18.6/models/std/umts,
+                      /usr/riverbed/18.6/models/std/legacy,
+                      /usr/riverbed/18.6/models/std/sip,
+                      /usr/riverbed/18.6/models/std/isis,
+                      /usr/riverbed/18.6/models/std/igrp,
+                      /usr/riverbed/18.6/models/std/layer2_mss,
+                      /usr/riverbed/18.6/models/std/llm,
+                      /usr/riverbed/18.6/models/std/wireless_lan,
+                      /usr/riverbed/18.6/models/std/srp,
+                      /usr/riverbed/18.6/models/std/rsvp,
+                      /usr/riverbed/18.6/models/std/mobile_ip,
+                      /usr/riverbed/18.6/models/std/rtp,
+                      /usr/riverbed/18.6/models/vendor_models/McData,
+                      /usr/riverbed/18.6/models/vendor_models/Cabletron,
+                      /usr/riverbed/18.6/models/vendor_models/Dell,
+                      /usr/riverbed/18.6/models/vendor_models/Nortel,
+                      /usr/riverbed/18.6/models/vendor_models/Juniper_Networks,
+                      /usr/riverbed/18.6/models/vendor_models/Huawei,
+                      /usr/riverbed/18.6/models/vendor_models/NET,
+                      /usr/riverbed/18.6/models/vendor_models/Foundry_Networks,
+                      /usr/riverbed/18.6/models/vendor_models/IBM,
+                      /usr/riverbed/18.6/models/vendor_models/AMD,
+                      /usr/riverbed/18.6/models/vendor_models/3Com,
+                      /usr/riverbed/18.6/models/vendor_models/Compaq,
+                      /usr/riverbed/18.6/models/vendor_models/Alteon,
+                      /usr/riverbed/18.6/models/vendor_models/antenna_models,
+                      /usr/riverbed/18.6/models/vendor_models/Newbridge,
+                      /usr/riverbed/18.6/models/vendor_models/CheckPoint,
+                      /usr/riverbed/18.6/models/vendor_models/Equipe,
+                      /usr/riverbed/18.6/models/vendor_models/Avici,
+                      /usr/riverbed/18.6/models/vendor_models/Intel,
+                      /usr/riverbed/18.6/models/vendor_models/Fore_Systems,
+                      /usr/riverbed/18.6/models/vendor_models/Xylan,
+                      /usr/riverbed/18.6/models/vendor_models/Cisco_Systems,
+                      /usr/riverbed/18.6/models/vendor_models/Nec,
+                      /usr/riverbed/18.6/models/vendor_models/f5,
+                      /usr/riverbed/18.6/models/vendor_models/Brocade,
+                      /usr/riverbed/18.6/models/vendor_models/Nokia,
+                      /usr/riverbed/18.6/models/vendor_models/Hewlett_Packard,
+                      /usr/riverbed/18.6/models/vendor_models/Ascend,
+                      /usr/riverbed/18.6/models/vendor_models/Lucent,
+                      /usr/riverbed/18.6/models/vendor_models/Bay_Networks,
+                      /usr/riverbed/18.6/models/vendor_models/Coyote_Point,
+                      /usr/riverbed/18.6/models/vendor_models/Radware,
+                      /usr/riverbed/18.6/models/vendor_models/Alcatel_Lucent,
+                      /usr/riverbed/18.6/models/vendor_models/Extreme,
+                      /usr/riverbed/18.6/models/vendor_models/Sun
+
+model_assistant_adjust_view_after_apply: FALSE
+
+model_assistant_load_file_default: ""
+
+model_assistant_save_file_default: ""
+
+modeler.product_options: tmm,
+                      wireless
+
+ncompass.admin_console_settings_dir: none
+
+ncompass.admin_server_hostname: none
+
+ncompass.admin_server_port: 8443
+
+ncompass.admin_server_with_https_support: TRUE
+
+ncompass.login_password: "op_password:vxLAqTzezgxY+fPDE9dBEA=="
+
+ncompass.login_role : none
+
+ncompass.login_username: none
+
+ncompass.open_project_automatically: TRUE
+
+ncompass.run_as_service: FALSE
+
+ncompass.save_login_information: FALSE
+
+ncompass.tooltip.link_attributes: tooltip,
+                      name,
+                      Bandwidth,
+                      Type,
+                      Utilization,
+                      "Utilization (A->B)",
+                      "Utilization (B->A)",
+                      "Throughput (A->B)",
+                      "Throughput (B->A)"
+
+ncompass.use_saved_role_information: FALSE
+
+ncompass.user_data_dir: none
+
+ncompass.web_server : FALSE
+
+net_report_link_detail_attrs: tooltip,
+                      "financial cost"
+
+net_report_link_summary_attrs: tooltip,
+                      "financial cost"
+
+net_report_node_detail_attrs: tooltip,
+                      "financial cost"
+
+net_report_node_summary_attrs: tooltip,
+                      "financial cost"
+
+netdiff.config_file_type_for_diffing: Running
+
+netdiff.exec_summary_function: make_exec_summary
+
+netdiff.exec_summary_module: NetDiff_Exec_Summary
+
+netdiff.ignore_links_between_inferred_devices: TRUE
+
+netdiff.include_all_scenarios: FALSE
+
+netdiff.include_debug_log_entries: FALSE
+
+netdiff.keep_prior_analysis_log_count: 5
+
+netdiff.performance_and_routing_data_source: "Operational Network"
+
+netdiff.skip_fwd_table_rules: TRUE
+
+netdiff.use_concise_hierarchical_name: FALSE
+
+netdiff.use_fwsm_module_config_file_for_diffing: Router
+
+netdiff.use_multi_module_config_file_for_diffing: Router
+
+netdoctor.automation_keep_sent_report: FALSE
+
+netdoctor.collect_trending_data: FALSE
+
+netdoctor.config_errlog_incident_limit: 100
+
+netdoctor.consider_shutdown: FALSE
+
+netdoctor.consider_unattached: FALSE
+
+netdoctor.dynamic_data_source: "Operational Network"
+
+netdoctor.enable_filter_cache: TRUE
+
+netdoctor.epilogue_function: ""
+
+netdoctor.epilogue_python_module: ""
+
+netdoctor.error_bg_color: "#CEBBC8"
+
+netdoctor.error_fg_color: "#000000"
+
+netdoctor.html_report_logo: <Default>
+
+netdoctor.include_debug_log_entries: FALSE
+
+netdoctor.keep_prior_analysis_log_count: 5
+
+netdoctor.keep_prior_reports_count: 5
+
+netdoctor.no_longer_detected_bg_color: "#E6E6E6"
+
+netdoctor.no_longer_detected_fg_color: "#000000"
+
+netdoctor.note_bg_color: "#CFD5DE"
+
+netdoctor.note_fg_color: "#000000"
+
+netdoctor.passed_bg_color: "#BED2C3"
+
+netdoctor.passed_fg_color: "#000000"
+
+netdoctor.profile_handlers: FALSE
+
+netdoctor.remove_unprintable_chars_from_report: FALSE
+
+netdoctor.report_data_dir: <Default>
+
+netdoctor.report_language: en_US
+
+netdoctor.report_max_msgs: 100000
+
+netdoctor.rtf_cover_report_logo: <Default>
+
+netdoctor.rtf_head_report_logo: <Default>
+
+netdoctor.rule_max_msgs: 20000
+
+netdoctor.scoring_error_value: 0
+
+netdoctor.scoring_error_weight: 10
+
+netdoctor.scoring_include_score: TRUE
+
+netdoctor.scoring_note_value: 75
+
+netdoctor.scoring_note_weight: 10
+
+netdoctor.scoring_passed_weight: 10
+
+netdoctor.scoring_rule_algorithm: "Severity weighted average of device scores"
+
+netdoctor.scoring_rule_weight: 10
+
+netdoctor.scoring_warning_value: 40
+
+netdoctor.scoring_warning_weight: 10
+
+netdoctor.trending_slope_threshold: 0.2
+
+netdoctor.trending_slope_units: auto
+
+netdoctor.user5_bg_color: "#D1B8E9"
+
+netdoctor.user5_fg_color: "#000000"
+
+netdoctor.user6_bg_color: "#D4D495"
+
+netdoctor.user6_fg_color: "#000000"
+
+netdoctor.user7_bg_color: "#ECC6B0"
+
+netdoctor.user7_fg_color: "#000000"
+
+netdoctor.user8_bg_color: "#C6DE99"
+
+netdoctor.user8_fg_color: "#000000"
+
+netdoctor.warning_bg_color: "#EEDEAD"
+
+netdoctor.warning_fg_color: "#000000"
+
+netmapper.write_layer_2_and_3_graph_log: FALSE
+
+netmapper.write_vlan_graph_log: FALSE
+
+network_configuration.display_network_information_interactively: FALSE
+
+network_palette     : custom_model_list,
+                      internet_toolbox
+
+obj_dbox_default_keywords: "'Vendor',selfdesc:'Vendor'",
+                      "'MachineType',selfdesc:'machine type'",
+                      "'SystemObjectID',selfdesc:'System Object ID'",
+                      "'OSType',attribute:'System Information'[0].'OS Type'"
+
+obj_dbox_headers    : "'Type:', '', , selfdesc:'machine type'",
+                      "'Make:', '', , selfdesc:'System Object ID'|selfdesc:'vendor'"
+
+osc.log_debug       : FALSE
+
+osc.max_osc_logs_per_scenario: 5
+
+panels_range_arrange_percentile_list: 1,
+                      2,
+                      3,
+                      4,
+                      5,
+                      7,
+                      10,
+                      15,
+                      20,
+                      30,
+                      50,
+                      75,
+                      90,
+                      95
+
+pdr.default_report_template: "Monthly Capacity Report"
+
+pdr.default_sampling_number_of_seconds: 300
+
+pnm_link_add_prompt : prompt
+
+pnm_post_node_upgrade_function: ""
+
+pnm_post_node_upgrade_library: ""
+
+preferences_default_save_location: Local
+
+product             : modeler
+
+provisioner.password: "<not set>"
+
+provisioner.server_host_name: ""
+
+provisioner.server_port: 8443
+
+provisioner.username: ""
+
+ra.db.in_mem_db_only: TRUE
+
+ra.gbl_ipv4.consider_tables: TRUE
+
+ra.gbl_ipv4.per_protocol_tables_to_parse: ""
+
+ra.gbl_ipv4.store_in_db: FALSE
+
+ra.gbl_ipv4.tables_to_parse: 0
+
+ra.handle_end_host_next_hops: FALSE
+
+ra.logging.create_debug_log_entries: FALSE
+
+ra.logging.max_log_entries: 100
+
+ra.use_layer3_graph_to_resolve_next_hop: FALSE
+
+ra.vrf_ipv4.consider_tables: TRUE
+
+ra.vrf_ipv4.per_protocol_tables_to_parse: ""
+
+ra.vrf_ipv4.store_in_db: TRUE
+
+ra.vrf_ipv4.tables_to_parse: 0
+
+ra.vrf_ipv4.vrf_grouping: 0
+
+ra.vrf_ipv4.vrf_tables_to_parse: <ALL>
+
+reports_dir         : /home/drubino000/op_reports
+
+resolver.advanced_heuristics_enabled: TRUE
+
+resolver.consider_aliases_from_shutdown_interfaces: FALSE
+
+resolver.map_endpoints_to_as_clouds: TRUE
+
+resolver.node_skipping_enabled: TRUE
+
+resolver.track_outgoing_interface: TRUE
+
+resolver.traffic_splitting_enabled: TRUE
+
+resolver.use_layer_3_graph: TRUE
+
+roaming_preferences : FALSE
+
+role_view_link_icon_length: 10
+
+role_view_node_icon_length: 3
+
+security.crypto.master_iv: NvCM4fGMS2NVBrmAkFi1IQ==
+
+security.crypto.master_key: vgsoi/EnLbt2/Xy3qapVEnstWqcNZpr8yStV8cPgROo2/YB4zU2NUrRN+w50ETJrYwkTqt5M1dvHQlSvcs6ClPC+N6VWG3SQpoT+opabd4Q=
+
+security.crypto.password_iv: rv6KsFpELTOzJtYkFMZuyA==
+
+skip_ip_mapping_report_creation: FALSE
+
+tooltip.demand_attributes: model,
+                      name
+
+tooltip.link_attributes: tooltip,
+                      name,
+                      "transmitter a",
+                      "transmitter b",
+                      transmitter,
+                      receiver,
+                      "data rate"
+
+tooltip.path_attributes: tooltip,
+                      name
+
+tooltip.site_attributes: tooltip,
+                      name
+
+traffic_archive_dir : /usr/netm/data/archives/netm
+
+traffic_center.arrange_percentile_list: 1,
+                      2,
+                      3,
+                      4,
+                      5,
+                      7,
+                      10,
+                      15,
+                      20,
+                      30,
+                      50,
+                      75,
+                      90,
+                      95
+
+traffic_center.domain_display_threshold: 1000
+
+traffic_center.graph_rollup_enabled: TRUE
+
+traffic_center.top_n_applications: 10
+
+traffic_center.top_n_codecs: 10
+
+traffic_center.top_n_cos: 10
+
+traffic_center.top_n_destination_business_groups: 10
+
+traffic_center.top_n_l2_ingress_pes: 10
+
+traffic_center.top_n_l2vpns: 10
+
+traffic_center.top_n_l3_ingress_pes: 10
+
+traffic_center.top_n_l3vpns: 10
+
+traffic_center.top_n_ports: 10
+
+traffic_center.top_n_source_business_groups: 10
+
+traffic_center.top_n_talkers: 10
+
+traffic_center.top_n_vpns: 10
+
+traffic_handle_ambiguous_mapping: pick_one
+
+traffic_import.import_vpn_traffic_flows_only: FALSE
+
+traffic_import.traffic_import_logging_verbose: FALSE
+
+traffic_import.use_device_probe_for_null_ifaces: TRUE
+
+traffic_import.use_first_probe_as_src: FALSE
+
+traffic_profile_undef_value_treat_as_zero: TRUE
+
+traffic_skip_flows_from_missing_probes: FALSE
+
+util_anim_ip_throughput_units: 2
+
+util_anim_ip_throughput_width_1: 1.544
+
+util_anim_ip_throughput_width_2: 44.736
+
+util_anim_ip_throughput_width_3: 51.84
+
+util_anim_ip_throughput_width_4: 155.52
+
+util_anim_ip_util_color_1: 50
+
+util_anim_ip_util_color_2: 75
+
+vcli.ip_routing_table_source: "Flow Analysis"
+
+visualize_congestion_areas: FALSE
+
+vne_import.append_operational_data: FALSE
+
+vne_import.baseline_type_selector: FALSE
+
+vne_import.create_appended_configs: TRUE
+
+vne_import.create_ebgp_node: FALSE
+
+vne_import.create_edge_lan: FALSE
+
+vne_import.create_serial_cloud: TRUE
+
+vne_import.create_unmodelled_subnet: TRUE
+
+vne_import.debug    : FALSE
+
+vne_import.default_assist_files: ""
+
+vne_import.destroy_empty_subnet: FALSE
+
+vne_import.ebgp_topology: NONE
+
+vne_import.group_nodes_into_subnets: TRUE
+
+vne_import.highlight_changed_devices: FALSE
+
+vne_import.host_time_window: 14
+
+vne_import.igmp_infer: FALSE
+
+vne_import.import_attributes: TRUE
+
+vne_import.import_chassis_with_missing_module: TRUE
+
+vne_import.import_configuration_files: FALSE
+
+vne_import.import_configurations: TRUE
+
+vne_import.import_cos_loads: TRUE
+
+vne_import.import_file_type_list: cfg,
+                      cdp,
+                      frMap,
+                      http,
+                      igmpGroup,
+                      interface,
+                      ipRoute,
+                      module,
+                      mplstetunnels,
+                      redundancy,
+                      standby,
+                      startup,
+                      version,
+                      vlan,
+                      vtp,
+                      allContexts
+
+vne_import.import_lightweight_devices: FALSE
+
+vne_import.import_links: TRUE
+
+vne_import.import_managed_hosts: TRUE
+
+vne_import.import_nonmanaged_hosts: FALSE
+
+vne_import.import_only_connected_hosts: TRUE
+
+vne_import.import_operational_fwd_tables: TRUE
+
+vne_import.import_performance_metrics: TRUE
+
+vne_import.import_unmapped_flows: TRUE
+
+vne_import.import_voip_configuration: TRUE
+
+vne_import.include_internal_loopback: FALSE
+
+vne_import.include_startup_config: FALSE
+
+vne_import.live_update_server_port: 3100
+
+vne_import.logging  : FALSE
+
+vne_import.metric_jitter_computation: Peak2Peak
+
+vne_import.prefer_cos_loads: TRUE
+
+vne_import.reference_date: 1.60706e+09
+
+vne_import.reference_label_selection: ""
+
+vne_import.reference_project_scenario: ""
+
+vne_import.show_interfaces_ma_message: TRUE
+
+vne_import.skip_atm_fr_pvc: FALSE
+
+vne_import.skip_csm : TRUE
+
+vne_import.sonet_port_l3: FALSE
+
+vne_import.tunnel_cloud_import: TRUE
+
+vne_import.use_bandwidth_for_ethernet_datarate: FALSE
+
+vne_import.use_domain_name_to_differentiate_nodes: FALSE
+
+vne_import.use_model_assistant: TRUE
+
+vne_import.use_subnets_as_roles: TRUE
+
+vne_import.use_timezone_as_roles: TRUE
+
+vne_import_logical_interface_loads: FALSE
+
+vne_import_packet_loads: FALSE
+
+vne_import_unconnected_interface_loads: TRUE
+
+vpn_browser_merge_vpns_by_route_target: TRUE
+
+vpn_browser_suppress_flow_analysis_needed_dialog: FALSE
+
+vudoc_prog          : acroread
+

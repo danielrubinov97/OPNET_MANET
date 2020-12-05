@@ -1,0 +1,1777 @@
+00:50:52 Fri Dec 04 2020: modeler issued the following command:
+	/bin/cp -f /home/drubino000/op_admin/opnet-18-6.prefs /tmp/opnet-18-6.prefs_bk24466 
+
+00:50:52 Fri Dec 04 2020: modeler issued the following command:
+	/bin/cp -f /home/drubino000/op_admin/opnet-18-6.prefs /tmp/opnet-18-6.prefs_bk24466 
+
+00:50:59 Fri Dec 04 2020: modeler issued the following command:
+	/bin/cp -f /home/drubino000/op_admin/opnet-18-6.prefs /tmp/opnet-18-6.prefs_bk24496 
+
+00:50:59 Fri Dec 04 2020: modeler issued the following command:
+	/bin/cp -f /home/drubino000/op_admin/opnet-18-6.prefs /tmp/opnet-18-6.prefs_bk24496 
+
+00:50:59 Fri Dec 04 2020: modeler issued the following command:
+	/bin/cp -f /home/drubino000/op_admin/opnet-18-6.prefs /tmp/opnet-18-6.prefs_bk24496 
+
+00:51:00 Fri Dec 04 2020: modeler issued the following command:
+	/bin/cp -f /home/drubino000/op_admin/opnet-18-6.prefs /tmp/opnet-18-6.prefs_bk24496 
+
+00:51:00 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/op_admin/tmp/op_write_test_4E72_063B
+
+22:04:06 Fri Dec 04 2020: modeler issued the following command:
+	/bin/cp -f /home/drubino000/op_admin/opnet-18-6.prefs /home/drubino000/op_admin/bk/opnet-18-6.prefs_bk20760 
+
+22:04:06 Fri Dec 04 2020: modeler issued the following command:
+	/bin/cp -f /home/drubino000/op_admin/opnet-18-6.prefs /home/drubino000/op_admin/bk/opnet-18-6.prefs_bk20760 
+
+22:04:07 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/op_admin/tmp/op_write_test_57C5_063B
+
+22:04:07 Fri Dec 04 2020: modeler issued the following command:
+	/bin/cp -f /home/drubino000/op_admin/opnet-18-6.prefs /home/drubino000/op_admin/bk/opnet-18-6.prefs_bk20760 
+
+22:04:28 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/op_admin/tmp/oppy_stdout_20760.tmp
+
+22:04:28 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/op_admin/tmp/oppy_stderr_20760.tmp
+
+22:15:14 Fri Dec 04 2020: modeler issued the following command:
+	/bin/cp -f /home/drubino000/op_admin/opnet-18-6.prefs /home/drubino000/op_admin/bk/opnet-18-6.prefs_bk22747 
+
+22:15:14 Fri Dec 04 2020: modeler issued the following command:
+	/bin/cp -f /home/drubino000/op_admin/opnet-18-6.prefs /home/drubino000/op_admin/bk/opnet-18-6.prefs_bk22747 
+
+22:15:15 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/op_admin/tmp/op_write_test_57DA_063B
+
+22:15:15 Fri Dec 04 2020: modeler issued the following command:
+	/bin/cp -f /home/drubino000/op_admin/opnet-18-6.prefs /home/drubino000/op_admin/bk/opnet-18-6.prefs_bk22747 
+
+22:15:33 Fri Dec 04 2020: modeler issued the following command:
+	/bin/cp -f /home/drubino000/op_admin/opnet-18-6.prefs /home/drubino000/op_admin/bk/opnet-18-6.prefs_bk22747 
+
+22:16:13 Fri Dec 04 2020: modeler issued the following command:
+	/bin/cp -f /home/drubino000/op_admin/opnet-18-6.prefs /home/drubino000/op_admin/bk/opnet-18-6.prefs_bk22747 
+
+22:23:07 Fri Dec 04 2020: modeler issued the following command:
+	STARTED REVERTING PROJECT: JF_DR_Manet_Project
+
+22:23:08 Fri Dec 04 2020: modeler issued the following command:
+	FINISHED REVERTING PROJECT: JF_DR_Manet_Project
+
+22:23:21 Fri Dec 04 2020: modeler issued the following command:
+	/bin/cp -f /home/drubino000/op_admin/opnet-18-6.prefs /home/drubino000/op_admin/bk/opnet-18-6.prefs_bk24158 
+
+22:23:21 Fri Dec 04 2020: modeler issued the following command:
+	/bin/cp -f /home/drubino000/op_admin/opnet-18-6.prefs /home/drubino000/op_admin/bk/opnet-18-6.prefs_bk24158 
+
+22:23:21 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/op_admin/tmp/op_write_test_57E9_063B
+
+22:23:21 Fri Dec 04 2020: modeler issued the following command:
+	/bin/cp -f /home/drubino000/op_admin/opnet-18-6.prefs /home/drubino000/op_admin/bk/opnet-18-6.prefs_bk24158 
+
+22:25:44 Fri Dec 04 2020: modeler issued the following command:
+	STARTED PRESERVING SCENARIO: NoFirewall
+	IN PROJECT: JF_DR_Manet_Project
+
+22:25:44 Fri Dec 04 2020: modeler issued the following command:
+	/bin/mv -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall.nt.m /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall.nt.m 
+
+22:25:44 Fri Dec 04 2020: modeler issued the following command:
+	/bin/mv -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall.pb.m /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall.pb.m 
+
+22:25:44 Fri Dec 04 2020: modeler issued the following command:
+	/bin/mv -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall.seq /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall.seq 
+
+22:25:44 Fri Dec 04 2020: modeler issued the following command:
+	/bin/mv -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ov /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall-DES-1.ov 
+
+22:25:44 Fri Dec 04 2020: modeler issued the following command:
+	/bin/mv -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ot /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall-DES-1.ot 
+
+22:25:44 Fri Dec 04 2020: modeler issued the following command:
+	/bin/mv -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ah /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall-DES-1.ah 
+
+22:25:44 Fri Dec 04 2020: modeler issued the following command:
+	/bin/mv -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall.dev64.i1.nt.so /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall.dev64.i1.nt.so 
+
+22:25:44 Fri Dec 04 2020: modeler issued the following command:
+	/bin/mv -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ef /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall-DES-1.ef 
+
+22:25:44 Fri Dec 04 2020: modeler issued the following command:
+	/bin/cp -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.olf.dir/19648_12-05-2020_02.59.46.ot /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall-DES-1.olf.dir/19648_12-05-2020_02.59.46.ot 
+
+22:25:44 Fri Dec 04 2020: modeler issued the following command:
+	/bin/cp -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.olf.dir/log_info /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall-DES-1.olf.dir/log_info 
+
+22:25:44 Fri Dec 04 2020: modeler issued the following command:
+	/bin/mv -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.desinfo /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall-DES-1.desinfo 
+
+22:25:44 Fri Dec 04 2020: modeler issued the following command:
+	/bin/cp -p -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall.nt.m /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall.nt.m 
+
+22:25:44 Fri Dec 04 2020: modeler issued the following command:
+	/bin/cp -p -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall.pb.m /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall.pb.m 
+
+22:25:44 Fri Dec 04 2020: modeler issued the following command:
+	/bin/cp -p -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall.seq /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall.seq 
+
+22:25:44 Fri Dec 04 2020: modeler issued the following command:
+	/bin/cp -p -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall-DES-1.ov /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ov 
+
+22:25:44 Fri Dec 04 2020: modeler issued the following command:
+	/bin/cp -p -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall-DES-1.ot /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ot 
+
+22:25:44 Fri Dec 04 2020: modeler issued the following command:
+	/bin/cp -p -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall-DES-1.ah /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ah 
+
+22:25:44 Fri Dec 04 2020: modeler issued the following command:
+	/bin/cp -p -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall.dev64.i1.nt.so /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall.dev64.i1.nt.so 
+
+22:25:44 Fri Dec 04 2020: modeler issued the following command:
+	/bin/cp -p -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall-DES-1.ef /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ef 
+
+22:25:44 Fri Dec 04 2020: modeler issued the following command:
+	/bin/cp -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall-DES-1.olf.dir/19648_12-05-2020_02.59.46.ot /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.olf.dir/19648_12-05-2020_02.59.46.ot 
+
+22:25:44 Fri Dec 04 2020: modeler issued the following command:
+	/bin/cp -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall-DES-1.olf.dir/log_info /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.olf.dir/log_info 
+
+22:25:44 Fri Dec 04 2020: modeler issued the following command:
+	/bin/cp -p -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall-DES-1.desinfo /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.desinfo 
+
+22:25:44 Fri Dec 04 2020: modeler issued the following command:
+	FINISHED PRESERVING SCENARIO: NoFirewall
+
+22:25:45 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ov
+
+22:25:45 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ot
+
+22:25:45 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ah
+
+22:25:45 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ef
+
+22:25:45 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.desinfo
+
+22:25:46 Fri Dec 04 2020: modeler issued the following command:
+	/usr/riverbed/18.6/sys/pc_intel_linux64/bin/op_runsim -net_name JF_DR_Manet_Project-NoFirewall -noprompt -ef JF_DR_Manet_Project-NoFirewall-DES-1 -DESinfo JF_DR_Manet_Project-NoFirewall-DES-1 -exec_id 1 -mgr_id 1 -opnet_port 38210 -parent_pid 24158 -tfile_dir_cache ignore -pipe_stdin 
+
+22:25:46 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.olf.dir/24591_12-05-2020_03.25.46.ot
+
+22:25:47 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall.dev64.i1.nt.so
+
+22:25:47 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/op_admin/tmp/bind_err_24158
+
+22:25:47 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/op_admin/tmp/dll_build.24597
+
+22:25:47 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/op_admin/tmp/repbind.24597
+
+22:25:47 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/op_admin/tmp/bind_err_24158
+
+22:25:47 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	/bin/mv -f /home/drubino000/op_admin/tmp/dll_build.24597 /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall.dev64.i1.nt.so 
+
+22:25:48 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/op_models/JF_DR_Manet_Project-NoFirewall-DES-1.ot
+
+22:25:48 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project_NoFirewall_DES_1_security_results.ot
+
+22:25:48 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project_NoFirewall_DES_1_security_results.ot
+
+22:25:48 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	/bin/mv -f /home/drubino000/op_models/JF_DR_Manet_Project-NoFirewall-DES-1.ot /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/tmp0-JF_DR_Manet_Project-NoFirewall-DES-1.ot 
+
+22:25:48 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	/bin/mv -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/tmp0-JF_DR_Manet_Project-NoFirewall-DES-1.ot /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ot 
+
+22:28:32 Fri Dec 04 2020: modeler issued the following command:
+	STARTED PRESERVING SCENARIO: NoFirewall
+	IN PROJECT: JF_DR_Manet_Project
+
+22:28:32 Fri Dec 04 2020: modeler issued the following command:
+	FINISHED PRESERVING SCENARIO: NoFirewall
+
+22:28:32 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ov
+
+22:28:32 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ot
+
+22:28:32 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ah
+
+22:28:32 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ef
+
+22:28:32 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.desinfo
+
+22:28:33 Fri Dec 04 2020: modeler issued the following command:
+	/usr/riverbed/18.6/sys/pc_intel_linux64/bin/op_runsim -net_name JF_DR_Manet_Project-NoFirewall -noprompt -ef JF_DR_Manet_Project-NoFirewall-DES-1 -DESinfo JF_DR_Manet_Project-NoFirewall-DES-1 -exec_id 1 -mgr_id 1 -opnet_port 33673 -parent_pid 24158 -tfile_dir_cache ignore -pipe_stdin 
+
+22:28:33 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.olf.dir/25298_12-05-2020_03.28.33.ot
+
+22:28:33 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall.dev64.i1.nt.so
+
+22:28:33 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/op_admin/tmp/bind_err_24158
+
+22:28:33 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/op_admin/tmp/dll_build.25299
+
+22:28:34 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/op_admin/tmp/repbind.25299
+
+22:28:34 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/op_admin/tmp/bind_err_24158
+
+22:28:34 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	/bin/mv -f /home/drubino000/op_admin/tmp/dll_build.25299 /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall.dev64.i1.nt.so 
+
+22:28:34 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/op_models/JF_DR_Manet_Project-NoFirewall-DES-1.ot
+
+22:28:34 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project_NoFirewall_DES_1_security_results.ot
+
+22:28:34 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project_NoFirewall_DES_1_security_results.ot
+
+22:28:34 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	/bin/mv -f /home/drubino000/op_models/JF_DR_Manet_Project-NoFirewall-DES-1.ot /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/tmp0-JF_DR_Manet_Project-NoFirewall-DES-1.ot 
+
+22:28:34 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	/bin/mv -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/tmp0-JF_DR_Manet_Project-NoFirewall-DES-1.ot /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ot 
+
+22:29:01 Fri Dec 04 2020: modeler issued the following command:
+	/bin/cp -f /home/drubino000/op_admin/opnet-18-6.prefs /home/drubino000/op_admin/bk/opnet-18-6.prefs_bk24158 
+
+22:29:27 Fri Dec 04 2020: modeler issued the following command:
+	STARTED PRESERVING SCENARIO: NoFirewall
+	IN PROJECT: JF_DR_Manet_Project
+
+22:29:27 Fri Dec 04 2020: modeler issued the following command:
+	FINISHED PRESERVING SCENARIO: NoFirewall
+
+22:29:28 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ov
+
+22:29:28 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ot
+
+22:29:28 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ah
+
+22:29:28 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ef
+
+22:29:28 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.desinfo
+
+22:29:28 Fri Dec 04 2020: modeler issued the following command:
+	/usr/riverbed/18.6/sys/pc_intel_linux64/bin/op_runsim -net_name JF_DR_Manet_Project-NoFirewall -noprompt -ef JF_DR_Manet_Project-NoFirewall-DES-1 -DESinfo JF_DR_Manet_Project-NoFirewall-DES-1 -exec_id 1 -mgr_id 1 -opnet_port 33111 -parent_pid 24158 -tfile_dir_cache ignore -pipe_stdin 
+
+22:29:28 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.olf.dir/25686_12-05-2020_03.29.28.ot
+
+22:29:29 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall.dev64.i1.nt.so
+
+22:29:29 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/op_admin/tmp/bind_err_24158
+
+22:29:29 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/op_admin/tmp/dll_build.25688
+
+22:29:29 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/op_admin/tmp/repbind.25688
+
+22:29:29 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/op_admin/tmp/bind_err_24158
+
+22:29:29 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	/bin/mv -f /home/drubino000/op_admin/tmp/dll_build.25688 /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall.dev64.i1.nt.so 
+
+22:29:29 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/op_models/JF_DR_Manet_Project-NoFirewall-DES-1.ot
+
+22:29:29 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	/bin/mv -f /home/drubino000/op_models/JF_DR_Manet_Project-NoFirewall-DES-1.ot /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/tmp0-JF_DR_Manet_Project-NoFirewall-DES-1.ot 
+
+22:29:29 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	/bin/mv -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/tmp0-JF_DR_Manet_Project-NoFirewall-DES-1.ot /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ot 
+
+22:30:32 Fri Dec 04 2020: modeler issued the following command:
+	STARTED PRESERVING SCENARIO: NoFirewall
+	IN PROJECT: JF_DR_Manet_Project
+
+22:30:32 Fri Dec 04 2020: modeler issued the following command:
+	FINISHED PRESERVING SCENARIO: NoFirewall
+
+22:30:33 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ov
+
+22:30:33 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ot
+
+22:30:33 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ah
+
+22:30:33 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ef
+
+22:30:33 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.desinfo
+
+22:30:33 Fri Dec 04 2020: modeler issued the following command:
+	/usr/riverbed/18.6/sys/pc_intel_linux64/bin/op_runsim -net_name JF_DR_Manet_Project-NoFirewall -noprompt -ef JF_DR_Manet_Project-NoFirewall-DES-1 -DESinfo JF_DR_Manet_Project-NoFirewall-DES-1 -exec_id 1 -mgr_id 1 -opnet_port 40101 -parent_pid 24158 -tfile_dir_cache ignore -pipe_stdin 
+
+22:30:33 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.olf.dir/26124_12-05-2020_03.30.33.ot
+
+22:30:34 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall.dev64.i1.nt.so
+
+22:30:34 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/op_admin/tmp/bind_err_24158
+
+22:30:34 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/op_admin/tmp/dll_build.26125
+
+22:30:35 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/op_admin/tmp/repbind.26125
+
+22:30:35 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/op_admin/tmp/bind_err_24158
+
+22:30:35 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	/bin/mv -f /home/drubino000/op_admin/tmp/dll_build.26125 /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall.dev64.i1.nt.so 
+
+22:30:35 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/op_models/JF_DR_Manet_Project-NoFirewall-DES-1.ot
+
+22:30:35 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	/bin/mv -f /home/drubino000/op_models/JF_DR_Manet_Project-NoFirewall-DES-1.ot /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/tmp0-JF_DR_Manet_Project-NoFirewall-DES-1.ot 
+
+22:30:35 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	/bin/mv -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/tmp0-JF_DR_Manet_Project-NoFirewall-DES-1.ot /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ot 
+
+22:31:29 Fri Dec 04 2020: modeler issued the following command:
+	STARTED PRESERVING SCENARIO: NoFirewall
+	IN PROJECT: JF_DR_Manet_Project
+
+22:31:29 Fri Dec 04 2020: modeler issued the following command:
+	FINISHED PRESERVING SCENARIO: NoFirewall
+
+22:31:30 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ov
+
+22:31:30 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ot
+
+22:31:30 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ah
+
+22:31:30 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ef
+
+22:31:30 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.desinfo
+
+22:31:30 Fri Dec 04 2020: modeler issued the following command:
+	/usr/riverbed/18.6/sys/pc_intel_linux64/bin/op_runsim -net_name JF_DR_Manet_Project-NoFirewall -noprompt -ef JF_DR_Manet_Project-NoFirewall-DES-1 -DESinfo JF_DR_Manet_Project-NoFirewall-DES-1 -exec_id 1 -mgr_id 1 -opnet_port 39331 -parent_pid 24158 -tfile_dir_cache ignore -pipe_stdin 
+
+22:31:30 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.olf.dir/26519_12-05-2020_03.31.30.ot
+
+22:31:31 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall.dev64.i1.nt.so
+
+22:31:31 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/op_admin/tmp/bind_err_24158
+
+22:31:31 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/op_admin/tmp/dll_build.26520
+
+22:31:31 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/op_admin/tmp/repbind.26520
+
+22:31:31 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/op_admin/tmp/bind_err_24158
+
+22:31:31 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	/bin/mv -f /home/drubino000/op_admin/tmp/dll_build.26520 /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall.dev64.i1.nt.so 
+
+22:31:31 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/op_models/JF_DR_Manet_Project-NoFirewall-DES-1.ot
+
+22:31:31 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project_NoFirewall_DES_1_security_results.ot
+
+22:31:31 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project_NoFirewall_DES_1_security_results.ot
+
+22:31:31 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	/bin/mv -f /home/drubino000/op_models/JF_DR_Manet_Project-NoFirewall-DES-1.ot /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/tmp0-JF_DR_Manet_Project-NoFirewall-DES-1.ot 
+
+22:31:31 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	/bin/mv -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/tmp0-JF_DR_Manet_Project-NoFirewall-DES-1.ot /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ot 
+
+22:32:03 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/op_admin/tmp/oppy_stdout_22747.tmp
+
+22:32:03 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/op_admin/tmp/oppy_stderr_22747.tmp
+
+22:32:22 Fri Dec 04 2020: modeler issued the following command:
+	STARTED PRESERVING SCENARIO: NoFirewall
+	IN PROJECT: JF_DR_Manet_Project
+
+22:32:22 Fri Dec 04 2020: modeler issued the following command:
+	FINISHED PRESERVING SCENARIO: NoFirewall
+
+22:32:23 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ov
+
+22:32:23 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ot
+
+22:32:23 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ah
+
+22:32:23 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ef
+
+22:32:23 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.desinfo
+
+22:32:23 Fri Dec 04 2020: modeler issued the following command:
+	/usr/riverbed/18.6/sys/pc_intel_linux64/bin/op_runsim -net_name JF_DR_Manet_Project-NoFirewall -noprompt -ef JF_DR_Manet_Project-NoFirewall-DES-1 -DESinfo JF_DR_Manet_Project-NoFirewall-DES-1 -exec_id 1 -mgr_id 1 -opnet_port 40038 -parent_pid 24158 -tfile_dir_cache ignore -pipe_stdin 
+
+22:32:23 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.olf.dir/26893_12-05-2020_03.32.23.ot
+
+22:32:24 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/op_models/JF_DR_Manet_Project-NoFirewall-DES-1.ot
+
+22:32:24 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project_NoFirewall_DES_1_security_results.ot
+
+22:32:24 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project_NoFirewall_DES_1_security_results.ot
+
+22:32:24 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	/bin/mv -f /home/drubino000/op_models/JF_DR_Manet_Project-NoFirewall-DES-1.ot /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/tmp0-JF_DR_Manet_Project-NoFirewall-DES-1.ot 
+
+22:32:24 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	/bin/mv -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/tmp0-JF_DR_Manet_Project-NoFirewall-DES-1.ot /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ot 
+
+22:32:28 Fri Dec 04 2020: modeler issued the following command:
+	STARTED REVERTING PROJECT: JF_DR_Manet_Project
+
+22:32:29 Fri Dec 04 2020: modeler issued the following command:
+	/bin/mv -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall.nt.m /home/drubino000/op_admin/bk/JF_DR_Manet_Project-NoFirewall_bk.nt.m 
+
+22:32:29 Fri Dec 04 2020: modeler issued the following command:
+	/bin/mv -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall.pb.m /home/drubino000/op_admin/bk/JF_DR_Manet_Project-NoFirewall_bk.pb.m 
+
+22:32:29 Fri Dec 04 2020: modeler issued the following command:
+	/bin/mv -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall.seq /home/drubino000/op_admin/bk/JF_DR_Manet_Project-NoFirewall_bk.seq 
+
+22:32:29 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ov
+
+22:32:29 Fri Dec 04 2020: modeler issued the following command:
+	/bin/mv -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ot /home/drubino000/op_admin/bk/JF_DR_Manet_Project-NoFirewall-DES-1_bk.ot 
+
+22:32:29 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ah
+
+22:32:29 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall.dev64.i1.nt.so
+
+22:32:29 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ef
+
+22:32:29 Fri Dec 04 2020: modeler issued the following command:
+	/bin/cp -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.olf.dir/26893_12-05-2020_03.32.23.ot /home/drubino000/op_admin/bk/JF_DR_Manet_Project-NoFirewall-DES-1_bk.olf.dir/26893_12-05-2020_03.32.23.ot 
+
+22:32:29 Fri Dec 04 2020: modeler issued the following command:
+	/bin/cp -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.olf.dir/log_info /home/drubino000/op_admin/bk/JF_DR_Manet_Project-NoFirewall-DES-1_bk.olf.dir/log_info 
+
+22:32:29 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.desinfo
+
+22:32:29 Fri Dec 04 2020: modeler issued the following command:
+	/bin/mv -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall.nt.m /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall.nt.m 
+
+22:32:29 Fri Dec 04 2020: modeler issued the following command:
+	/bin/mv -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall.pb.m /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall.pb.m 
+
+22:32:29 Fri Dec 04 2020: modeler issued the following command:
+	/bin/mv -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall.seq /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall.seq 
+
+22:32:29 Fri Dec 04 2020: modeler issued the following command:
+	/bin/mv -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall-DES-1.ov /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ov 
+
+22:32:29 Fri Dec 04 2020: modeler issued the following command:
+	/bin/mv -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall-DES-1.ot /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ot 
+
+22:32:29 Fri Dec 04 2020: modeler issued the following command:
+	/bin/mv -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall-DES-1.ah /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ah 
+
+22:32:29 Fri Dec 04 2020: modeler issued the following command:
+	/bin/mv -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall.dev64.i1.nt.so /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall.dev64.i1.nt.so 
+
+22:32:29 Fri Dec 04 2020: modeler issued the following command:
+	/bin/mv -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall-DES-1.ef /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ef 
+
+22:32:29 Fri Dec 04 2020: modeler issued the following command:
+	/bin/cp -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall-DES-1.olf.dir/19648_12-05-2020_02.59.46.ot /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.olf.dir/19648_12-05-2020_02.59.46.ot 
+
+22:32:29 Fri Dec 04 2020: modeler issued the following command:
+	/bin/cp -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall-DES-1.olf.dir/log_info /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.olf.dir/log_info 
+
+22:32:29 Fri Dec 04 2020: modeler issued the following command:
+	/bin/mv -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall-DES-1.desinfo /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.desinfo 
+
+22:32:29 Fri Dec 04 2020: modeler issued the following command:
+	FINISHED REVERTING PROJECT: JF_DR_Manet_Project
+
+22:32:31 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/op_admin/tmp/oppy_stdout_24158.tmp
+
+22:32:31 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/op_admin/tmp/oppy_stderr_24158.tmp
+
+22:33:20 Fri Dec 04 2020: modeler issued the following command:
+	/bin/cp -f /home/drubino000/op_admin/opnet-18-6.prefs /home/drubino000/op_admin/bk/opnet-18-6.prefs_bk27156 
+
+22:33:20 Fri Dec 04 2020: modeler issued the following command:
+	/bin/cp -f /home/drubino000/op_admin/opnet-18-6.prefs /home/drubino000/op_admin/bk/opnet-18-6.prefs_bk27156 
+
+22:33:20 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/op_admin/tmp/op_write_test_57FC_063B
+
+22:33:21 Fri Dec 04 2020: modeler issued the following command:
+	/bin/cp -f /home/drubino000/op_admin/opnet-18-6.prefs /home/drubino000/op_admin/bk/opnet-18-6.prefs_bk27156 
+
+22:34:51 Fri Dec 04 2020: modeler issued the following command:
+	STARTED PRESERVING SCENARIO: NoFirewall
+	IN PROJECT: JF_DR_Manet_Project
+
+22:34:51 Fri Dec 04 2020: modeler issued the following command:
+	/bin/mv -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall.nt.m /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall.nt.m 
+
+22:34:51 Fri Dec 04 2020: modeler issued the following command:
+	/bin/mv -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall.pb.m /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall.pb.m 
+
+22:34:51 Fri Dec 04 2020: modeler issued the following command:
+	/bin/mv -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall.seq /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall.seq 
+
+22:34:51 Fri Dec 04 2020: modeler issued the following command:
+	/bin/mv -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ov /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall-DES-1.ov 
+
+22:34:51 Fri Dec 04 2020: modeler issued the following command:
+	/bin/mv -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ot /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall-DES-1.ot 
+
+22:34:51 Fri Dec 04 2020: modeler issued the following command:
+	/bin/mv -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ah /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall-DES-1.ah 
+
+22:34:51 Fri Dec 04 2020: modeler issued the following command:
+	/bin/mv -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall.dev64.i1.nt.so /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall.dev64.i1.nt.so 
+
+22:34:51 Fri Dec 04 2020: modeler issued the following command:
+	/bin/mv -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ef /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall-DES-1.ef 
+
+22:34:51 Fri Dec 04 2020: modeler issued the following command:
+	/bin/cp -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.olf.dir/19648_12-05-2020_02.59.46.ot /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall-DES-1.olf.dir/19648_12-05-2020_02.59.46.ot 
+
+22:34:51 Fri Dec 04 2020: modeler issued the following command:
+	/bin/cp -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.olf.dir/log_info /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall-DES-1.olf.dir/log_info 
+
+22:34:51 Fri Dec 04 2020: modeler issued the following command:
+	/bin/mv -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.desinfo /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall-DES-1.desinfo 
+
+22:34:51 Fri Dec 04 2020: modeler issued the following command:
+	/bin/cp -p -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall.nt.m /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall.nt.m 
+
+22:34:51 Fri Dec 04 2020: modeler issued the following command:
+	/bin/cp -p -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall.pb.m /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall.pb.m 
+
+22:34:51 Fri Dec 04 2020: modeler issued the following command:
+	/bin/cp -p -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall.seq /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall.seq 
+
+22:34:51 Fri Dec 04 2020: modeler issued the following command:
+	/bin/cp -p -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall-DES-1.ov /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ov 
+
+22:34:51 Fri Dec 04 2020: modeler issued the following command:
+	/bin/cp -p -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall-DES-1.ot /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ot 
+
+22:34:51 Fri Dec 04 2020: modeler issued the following command:
+	/bin/cp -p -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall-DES-1.ah /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ah 
+
+22:34:51 Fri Dec 04 2020: modeler issued the following command:
+	/bin/cp -p -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall.dev64.i1.nt.so /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall.dev64.i1.nt.so 
+
+22:34:51 Fri Dec 04 2020: modeler issued the following command:
+	/bin/cp -p -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall-DES-1.ef /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ef 
+
+22:34:51 Fri Dec 04 2020: modeler issued the following command:
+	/bin/cp -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall-DES-1.olf.dir/19648_12-05-2020_02.59.46.ot /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.olf.dir/19648_12-05-2020_02.59.46.ot 
+
+22:34:51 Fri Dec 04 2020: modeler issued the following command:
+	/bin/cp -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall-DES-1.olf.dir/log_info /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.olf.dir/log_info 
+
+22:34:51 Fri Dec 04 2020: modeler issued the following command:
+	/bin/cp -p -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall-DES-1.desinfo /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.desinfo 
+
+22:34:51 Fri Dec 04 2020: modeler issued the following command:
+	FINISHED PRESERVING SCENARIO: NoFirewall
+
+22:34:52 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ov
+
+22:34:52 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ot
+
+22:34:52 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ah
+
+22:34:52 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ef
+
+22:34:52 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.desinfo
+
+22:34:52 Fri Dec 04 2020: modeler issued the following command:
+	/usr/riverbed/18.6/sys/pc_intel_linux64/bin/op_runsim -net_name JF_DR_Manet_Project-NoFirewall -noprompt -ef JF_DR_Manet_Project-NoFirewall-DES-1 -DESinfo JF_DR_Manet_Project-NoFirewall-DES-1 -exec_id 1 -mgr_id 1 -opnet_port 44607 -parent_pid 27156 -tfile_dir_cache ignore -pipe_stdin 
+
+22:34:52 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.olf.dir/27451_12-05-2020_03.34.52.ot
+
+22:34:53 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall.dev64.i1.nt.so
+
+22:34:53 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/op_admin/tmp/bind_err_27156
+
+22:34:53 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/op_admin/tmp/dll_build.27453
+
+22:34:54 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/op_admin/tmp/repbind.27453
+
+22:34:54 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/op_admin/tmp/bind_err_27156
+
+22:34:54 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	/bin/mv -f /home/drubino000/op_admin/tmp/dll_build.27453 /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall.dev64.i1.nt.so 
+
+22:34:54 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/op_models/JF_DR_Manet_Project-NoFirewall-DES-1.ot
+
+22:34:54 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project_NoFirewall_DES_1_security_results.ot
+
+22:34:54 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project_NoFirewall_DES_1_security_results.ot
+
+22:34:54 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	/bin/mv -f /home/drubino000/op_models/JF_DR_Manet_Project-NoFirewall-DES-1.ot /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/tmp0-JF_DR_Manet_Project-NoFirewall-DES-1.ot 
+
+22:34:54 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	/bin/mv -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/tmp0-JF_DR_Manet_Project-NoFirewall-DES-1.ot /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ot 
+
+22:35:21 Fri Dec 04 2020: modeler issued the following command:
+	/bin/cp -f /home/drubino000/op_admin/opnet-18-6.prefs /home/drubino000/op_admin/bk/opnet-18-6.prefs_bk27156 
+
+22:37:14 Fri Dec 04 2020: modeler issued the following command:
+	STARTED PRESERVING SCENARIO: NoFirewall
+	IN PROJECT: JF_DR_Manet_Project
+
+22:37:15 Fri Dec 04 2020: modeler issued the following command:
+	FINISHED PRESERVING SCENARIO: NoFirewall
+
+22:37:16 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ov
+
+22:37:16 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ot
+
+22:37:16 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ah
+
+22:37:16 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ef
+
+22:37:16 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.desinfo
+
+22:37:16 Fri Dec 04 2020: modeler issued the following command:
+	/usr/riverbed/18.6/sys/pc_intel_linux64/bin/op_runsim -net_name JF_DR_Manet_Project-NoFirewall -noprompt -ef JF_DR_Manet_Project-NoFirewall-DES-1 -DESinfo JF_DR_Manet_Project-NoFirewall-DES-1 -exec_id 1 -mgr_id 1 -opnet_port 35738 -parent_pid 27156 -tfile_dir_cache ignore -pipe_stdin 
+
+22:37:16 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.olf.dir/28089_12-05-2020_03.37.16.ot
+
+22:37:17 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall.dev64.i1.nt.so
+
+22:37:17 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/op_admin/tmp/bind_err_27156
+
+22:37:17 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/op_admin/tmp/dll_build.28090
+
+22:37:17 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/op_admin/tmp/repbind.28090
+
+22:37:17 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/op_admin/tmp/bind_err_27156
+
+22:37:17 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	/bin/mv -f /home/drubino000/op_admin/tmp/dll_build.28090 /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall.dev64.i1.nt.so 
+
+22:37:17 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/op_models/JF_DR_Manet_Project-NoFirewall-DES-1.ot
+
+22:37:17 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project_NoFirewall_DES_1_security_results.ot
+
+22:37:17 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project_NoFirewall_DES_1_security_results.ot
+
+22:37:17 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	/bin/mv -f /home/drubino000/op_models/JF_DR_Manet_Project-NoFirewall-DES-1.ot /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/tmp0-JF_DR_Manet_Project-NoFirewall-DES-1.ot 
+
+22:37:17 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	/bin/mv -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/tmp0-JF_DR_Manet_Project-NoFirewall-DES-1.ot /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ot 
+
+22:37:50 Fri Dec 04 2020: modeler issued the following command:
+	STARTED PRESERVING SCENARIO: NoFirewall
+	IN PROJECT: JF_DR_Manet_Project
+
+22:37:51 Fri Dec 04 2020: modeler issued the following command:
+	FINISHED PRESERVING SCENARIO: NoFirewall
+
+22:37:51 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ov
+
+22:37:51 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ot
+
+22:37:51 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ah
+
+22:37:51 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ef
+
+22:37:51 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.desinfo
+
+22:37:51 Fri Dec 04 2020: modeler issued the following command:
+	/usr/riverbed/18.6/sys/pc_intel_linux64/bin/op_runsim -net_name JF_DR_Manet_Project-NoFirewall -noprompt -ef JF_DR_Manet_Project-NoFirewall-DES-1 -DESinfo JF_DR_Manet_Project-NoFirewall-DES-1 -exec_id 1 -mgr_id 1 -opnet_port 41411 -parent_pid 27156 -tfile_dir_cache ignore -pipe_stdin 
+
+22:37:51 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.olf.dir/28415_12-05-2020_03.37.51.ot
+
+22:37:52 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall.dev64.i1.nt.so
+
+22:37:52 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/op_admin/tmp/bind_err_27156
+
+22:37:52 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/op_admin/tmp/dll_build.28417
+
+22:37:52 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/op_admin/tmp/repbind.28417
+
+22:37:52 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/op_admin/tmp/bind_err_27156
+
+22:37:52 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	/bin/mv -f /home/drubino000/op_admin/tmp/dll_build.28417 /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall.dev64.i1.nt.so 
+
+22:37:53 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/op_models/JF_DR_Manet_Project-NoFirewall-DES-1.ot
+
+22:37:53 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project_NoFirewall_DES_1_security_results.ot
+
+22:37:53 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project_NoFirewall_DES_1_security_results.ot
+
+22:37:53 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	/bin/mv -f /home/drubino000/op_models/JF_DR_Manet_Project-NoFirewall-DES-1.ot /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/tmp0-JF_DR_Manet_Project-NoFirewall-DES-1.ot 
+
+22:37:53 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	/bin/mv -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/tmp0-JF_DR_Manet_Project-NoFirewall-DES-1.ot /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ot 
+
+22:37:53 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1_data.of
+
+22:38:48 Fri Dec 04 2020: modeler issued the following command:
+	STARTED REVERTING PROJECT: JF_DR_Manet_Project
+
+22:38:48 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/op_admin/bk/JF_DR_Manet_Project-NoFirewall_bk.nt.m
+
+22:38:48 Fri Dec 04 2020: modeler issued the following command:
+	/bin/mv -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall.nt.m /home/drubino000/op_admin/bk/JF_DR_Manet_Project-NoFirewall_bk.nt.m 
+
+22:38:48 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/op_admin/bk/JF_DR_Manet_Project-NoFirewall_bk.pb.m
+
+22:38:48 Fri Dec 04 2020: modeler issued the following command:
+	/bin/mv -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall.pb.m /home/drubino000/op_admin/bk/JF_DR_Manet_Project-NoFirewall_bk.pb.m 
+
+22:38:48 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/op_admin/bk/JF_DR_Manet_Project-NoFirewall_bk.seq
+
+22:38:48 Fri Dec 04 2020: modeler issued the following command:
+	/bin/mv -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall.seq /home/drubino000/op_admin/bk/JF_DR_Manet_Project-NoFirewall_bk.seq 
+
+22:38:48 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ov
+
+22:38:48 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/op_admin/bk/JF_DR_Manet_Project-NoFirewall-DES-1_bk.ot
+
+22:38:48 Fri Dec 04 2020: modeler issued the following command:
+	/bin/mv -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ot /home/drubino000/op_admin/bk/JF_DR_Manet_Project-NoFirewall-DES-1_bk.ot 
+
+22:38:48 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ah
+
+22:38:48 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall.dev64.i1.nt.so
+
+22:38:48 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ef
+
+22:38:48 Fri Dec 04 2020: modeler issued the following command:
+	/bin/cp -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.olf.dir/28415_12-05-2020_03.37.51.ot /home/drubino000/op_admin/bk/JF_DR_Manet_Project-NoFirewall-DES-1_bk.olf.dir/28415_12-05-2020_03.37.51.ot 
+
+22:38:48 Fri Dec 04 2020: modeler issued the following command:
+	/bin/cp -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.olf.dir/log_info /home/drubino000/op_admin/bk/JF_DR_Manet_Project-NoFirewall-DES-1_bk.olf.dir/log_info 
+
+22:38:48 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.desinfo
+
+22:38:48 Fri Dec 04 2020: modeler issued the following command:
+	/bin/mv -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall.nt.m /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall.nt.m 
+
+22:38:48 Fri Dec 04 2020: modeler issued the following command:
+	/bin/mv -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall.pb.m /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall.pb.m 
+
+22:38:48 Fri Dec 04 2020: modeler issued the following command:
+	/bin/mv -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall.seq /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall.seq 
+
+22:38:48 Fri Dec 04 2020: modeler issued the following command:
+	/bin/mv -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall-DES-1.ov /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ov 
+
+22:38:48 Fri Dec 04 2020: modeler issued the following command:
+	/bin/mv -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall-DES-1.ot /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ot 
+
+22:38:48 Fri Dec 04 2020: modeler issued the following command:
+	/bin/mv -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall-DES-1.ah /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ah 
+
+22:38:48 Fri Dec 04 2020: modeler issued the following command:
+	/bin/mv -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall.dev64.i1.nt.so /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall.dev64.i1.nt.so 
+
+22:38:48 Fri Dec 04 2020: modeler issued the following command:
+	/bin/mv -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall-DES-1.ef /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ef 
+
+22:38:48 Fri Dec 04 2020: modeler issued the following command:
+	/bin/cp -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall-DES-1.olf.dir/19648_12-05-2020_02.59.46.ot /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.olf.dir/19648_12-05-2020_02.59.46.ot 
+
+22:38:48 Fri Dec 04 2020: modeler issued the following command:
+	/bin/cp -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall-DES-1.olf.dir/log_info /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.olf.dir/log_info 
+
+22:38:48 Fri Dec 04 2020: modeler issued the following command:
+	/bin/mv -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall-DES-1.desinfo /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.desinfo 
+
+22:38:48 Fri Dec 04 2020: modeler issued the following command:
+	FINISHED REVERTING PROJECT: JF_DR_Manet_Project
+
+22:38:50 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/op_admin/tmp/oppy_stdout_27156.tmp
+
+22:38:50 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/op_admin/tmp/oppy_stderr_27156.tmp
+
+22:39:00 Fri Dec 04 2020: modeler issued the following command:
+	/bin/cp -f /home/drubino000/op_admin/opnet-18-6.prefs /home/drubino000/op_admin/bk/opnet-18-6.prefs_bk28857 
+
+22:39:00 Fri Dec 04 2020: modeler issued the following command:
+	/bin/cp -f /home/drubino000/op_admin/opnet-18-6.prefs /home/drubino000/op_admin/bk/opnet-18-6.prefs_bk28857 
+
+22:39:01 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/op_admin/tmp/op_write_test_5806_063B
+
+22:39:01 Fri Dec 04 2020: modeler issued the following command:
+	/bin/cp -f /home/drubino000/op_admin/opnet-18-6.prefs /home/drubino000/op_admin/bk/opnet-18-6.prefs_bk28857 
+
+22:42:07 Fri Dec 04 2020: modeler issued the following command:
+	/bin/cp -f /home/drubino000/op_admin/opnet-18-6.prefs /home/drubino000/op_admin/bk/opnet-18-6.prefs_bk28857 
+
+22:55:58 Fri Dec 04 2020: modeler issued the following command:
+	STARTED PRESERVING SCENARIO: NoFirewall
+	IN PROJECT: JF_DR_Manet_Project
+
+22:55:58 Fri Dec 04 2020: modeler issued the following command:
+	/bin/mv -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall.nt.m /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall.nt.m 
+
+22:55:58 Fri Dec 04 2020: modeler issued the following command:
+	/bin/mv -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall.pb.m /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall.pb.m 
+
+22:55:58 Fri Dec 04 2020: modeler issued the following command:
+	/bin/mv -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall.seq /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall.seq 
+
+22:55:58 Fri Dec 04 2020: modeler issued the following command:
+	/bin/mv -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ov /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall-DES-1.ov 
+
+22:55:58 Fri Dec 04 2020: modeler issued the following command:
+	/bin/mv -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ot /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall-DES-1.ot 
+
+22:55:58 Fri Dec 04 2020: modeler issued the following command:
+	/bin/mv -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ah /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall-DES-1.ah 
+
+22:55:58 Fri Dec 04 2020: modeler issued the following command:
+	/bin/mv -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall.dev64.i1.nt.so /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall.dev64.i1.nt.so 
+
+22:55:58 Fri Dec 04 2020: modeler issued the following command:
+	/bin/mv -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ef /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall-DES-1.ef 
+
+22:55:58 Fri Dec 04 2020: modeler issued the following command:
+	/bin/cp -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.olf.dir/19648_12-05-2020_02.59.46.ot /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall-DES-1.olf.dir/19648_12-05-2020_02.59.46.ot 
+
+22:55:58 Fri Dec 04 2020: modeler issued the following command:
+	/bin/cp -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.olf.dir/log_info /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall-DES-1.olf.dir/log_info 
+
+22:55:58 Fri Dec 04 2020: modeler issued the following command:
+	/bin/mv -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.desinfo /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall-DES-1.desinfo 
+
+22:55:58 Fri Dec 04 2020: modeler issued the following command:
+	/bin/cp -p -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall.nt.m /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall.nt.m 
+
+22:55:58 Fri Dec 04 2020: modeler issued the following command:
+	/bin/cp -p -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall.pb.m /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall.pb.m 
+
+22:55:58 Fri Dec 04 2020: modeler issued the following command:
+	/bin/cp -p -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall.seq /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall.seq 
+
+22:55:58 Fri Dec 04 2020: modeler issued the following command:
+	/bin/cp -p -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall-DES-1.ov /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ov 
+
+22:55:58 Fri Dec 04 2020: modeler issued the following command:
+	/bin/cp -p -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall-DES-1.ot /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ot 
+
+22:55:58 Fri Dec 04 2020: modeler issued the following command:
+	/bin/cp -p -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall-DES-1.ah /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ah 
+
+22:55:58 Fri Dec 04 2020: modeler issued the following command:
+	/bin/cp -p -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall.dev64.i1.nt.so /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall.dev64.i1.nt.so 
+
+22:55:58 Fri Dec 04 2020: modeler issued the following command:
+	/bin/cp -p -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall-DES-1.ef /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ef 
+
+22:55:58 Fri Dec 04 2020: modeler issued the following command:
+	/bin/cp -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall-DES-1.olf.dir/19648_12-05-2020_02.59.46.ot /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.olf.dir/19648_12-05-2020_02.59.46.ot 
+
+22:55:58 Fri Dec 04 2020: modeler issued the following command:
+	/bin/cp -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall-DES-1.olf.dir/log_info /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.olf.dir/log_info 
+
+22:55:58 Fri Dec 04 2020: modeler issued the following command:
+	/bin/cp -p -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall-DES-1.desinfo /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.desinfo 
+
+22:55:58 Fri Dec 04 2020: modeler issued the following command:
+	FINISHED PRESERVING SCENARIO: NoFirewall
+
+22:55:59 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ov
+
+22:55:59 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ot
+
+22:55:59 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ah
+
+22:55:59 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ef
+
+22:55:59 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.desinfo
+
+22:55:59 Fri Dec 04 2020: modeler issued the following command:
+	/usr/riverbed/18.6/sys/pc_intel_linux64/bin/op_runsim -net_name JF_DR_Manet_Project-NoFirewall -noprompt -ef JF_DR_Manet_Project-NoFirewall-DES-1 -DESinfo JF_DR_Manet_Project-NoFirewall-DES-1 -exec_id 1 -mgr_id 1 -opnet_port 39273 -parent_pid 28857 -tfile_dir_cache ignore -pipe_stdin 
+
+22:56:00 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.olf.dir/31826_12-05-2020_03.56.00.ot
+
+22:56:00 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall.dev64.i1.nt.so
+
+22:56:00 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/op_admin/tmp/bind_err_28857
+
+22:56:00 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/op_admin/tmp/dll_build.31828
+
+22:56:01 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/op_admin/tmp/repbind.31828
+
+22:56:01 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/op_admin/tmp/bind_err_28857
+
+22:56:01 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	/bin/mv -f /home/drubino000/op_admin/tmp/dll_build.31828 /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall.dev64.i1.nt.so 
+
+22:56:01 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/op_models/JF_DR_Manet_Project-NoFirewall-DES-1.ot
+
+22:56:01 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project_NoFirewall_DES_1_security_results.ot
+
+22:56:01 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project_NoFirewall_DES_1_security_results.ot
+
+22:56:01 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	/bin/mv -f /home/drubino000/op_models/JF_DR_Manet_Project-NoFirewall-DES-1.ot /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/tmp0-JF_DR_Manet_Project-NoFirewall-DES-1.ot 
+
+22:56:01 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	/bin/mv -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/tmp0-JF_DR_Manet_Project-NoFirewall-DES-1.ot /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ot 
+
+22:56:01 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1_data.of
+
+23:01:27 Fri Dec 04 2020: modeler issued the following command:
+	STARTED PRESERVING SCENARIO: NoFirewall
+	IN PROJECT: JF_DR_Manet_Project
+
+23:01:27 Fri Dec 04 2020: modeler issued the following command:
+	FINISHED PRESERVING SCENARIO: NoFirewall
+
+23:01:27 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ov
+
+23:01:27 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ot
+
+23:01:27 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ah
+
+23:01:27 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ef
+
+23:01:27 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.desinfo
+
+23:01:28 Fri Dec 04 2020: modeler issued the following command:
+	/usr/riverbed/18.6/sys/pc_intel_linux64/bin/op_runsim -net_name JF_DR_Manet_Project-NoFirewall -noprompt -ef JF_DR_Manet_Project-NoFirewall-DES-1 -DESinfo JF_DR_Manet_Project-NoFirewall-DES-1 -exec_id 1 -mgr_id 1 -opnet_port 41066 -parent_pid 28857 -tfile_dir_cache ignore -pipe_stdin 
+
+23:01:28 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.olf.dir/569_12-05-2020_04.01.28.ot
+
+23:01:28 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall.dev64.i1.nt.so
+
+23:01:28 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/op_admin/tmp/bind_err_28857
+
+23:01:28 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/op_admin/tmp/dll_build.570
+
+23:01:29 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/op_admin/tmp/repbind.570
+
+23:01:29 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/op_admin/tmp/bind_err_28857
+
+23:01:29 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	/bin/mv -f /home/drubino000/op_admin/tmp/dll_build.570 /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall.dev64.i1.nt.so 
+
+23:01:29 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/op_models/JF_DR_Manet_Project-NoFirewall-DES-1.ot
+
+23:01:29 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project_NoFirewall_DES_1_security_results.ot
+
+23:01:29 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project_NoFirewall_DES_1_security_results.ot
+
+23:01:30 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	/bin/mv -f /home/drubino000/op_models/JF_DR_Manet_Project-NoFirewall-DES-1.ot /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/tmp0-JF_DR_Manet_Project-NoFirewall-DES-1.ot 
+
+23:01:30 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	/bin/mv -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/tmp0-JF_DR_Manet_Project-NoFirewall-DES-1.ot /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ot 
+
+23:01:30 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1_data.of
+
+23:04:33 Fri Dec 04 2020: modeler issued the following command:
+	STARTED PRESERVING SCENARIO: NoFirewall
+	IN PROJECT: JF_DR_Manet_Project
+
+23:04:34 Fri Dec 04 2020: modeler issued the following command:
+	FINISHED PRESERVING SCENARIO: NoFirewall
+
+23:04:34 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ov
+
+23:04:34 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ot
+
+23:04:34 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ah
+
+23:04:34 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ef
+
+23:04:34 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.desinfo
+
+23:04:34 Fri Dec 04 2020: modeler issued the following command:
+	/usr/riverbed/18.6/sys/pc_intel_linux64/bin/op_runsim -net_name JF_DR_Manet_Project-NoFirewall -noprompt -ef JF_DR_Manet_Project-NoFirewall-DES-1 -DESinfo JF_DR_Manet_Project-NoFirewall-DES-1 -exec_id 1 -mgr_id 1 -opnet_port 42293 -parent_pid 28857 -tfile_dir_cache ignore -pipe_stdin 
+
+23:04:35 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.olf.dir/1331_12-05-2020_04.04.35.ot
+
+23:04:35 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall.dev64.i1.nt.so
+
+23:04:35 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/op_admin/tmp/bind_err_28857
+
+23:04:35 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/op_admin/tmp/dll_build.1334
+
+23:04:36 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/op_admin/tmp/repbind.1334
+
+23:04:36 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/op_admin/tmp/bind_err_28857
+
+23:04:36 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	/bin/mv -f /home/drubino000/op_admin/tmp/dll_build.1334 /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall.dev64.i1.nt.so 
+
+23:04:36 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/op_models/JF_DR_Manet_Project-NoFirewall-DES-1.ot
+
+23:04:36 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project_NoFirewall_DES_1_security_results.ot
+
+23:04:36 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project_NoFirewall_DES_1_security_results.ot
+
+23:04:37 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	/bin/mv -f /home/drubino000/op_models/JF_DR_Manet_Project-NoFirewall-DES-1.ot /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/tmp0-JF_DR_Manet_Project-NoFirewall-DES-1.ot 
+
+23:04:37 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	/bin/mv -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/tmp0-JF_DR_Manet_Project-NoFirewall-DES-1.ot /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ot 
+
+23:04:37 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1_data.of
+
+23:06:32 Fri Dec 04 2020: modeler issued the following command:
+	STARTED PRESERVING SCENARIO: NoFirewall
+	IN PROJECT: JF_DR_Manet_Project
+
+23:06:32 Fri Dec 04 2020: modeler issued the following command:
+	FINISHED PRESERVING SCENARIO: NoFirewall
+
+23:06:33 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ov
+
+23:06:33 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ot
+
+23:06:33 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ah
+
+23:06:33 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ef
+
+23:06:33 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.desinfo
+
+23:06:33 Fri Dec 04 2020: modeler issued the following command:
+	/usr/riverbed/18.6/sys/pc_intel_linux64/bin/op_runsim -net_name JF_DR_Manet_Project-NoFirewall -noprompt -ef JF_DR_Manet_Project-NoFirewall-DES-1 -DESinfo JF_DR_Manet_Project-NoFirewall-DES-1 -exec_id 1 -mgr_id 1 -opnet_port 41820 -parent_pid 28857 -tfile_dir_cache ignore -pipe_stdin 
+
+23:06:33 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.olf.dir/1917_12-05-2020_04.06.33.ot
+
+23:06:34 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall.dev64.i1.nt.so
+
+23:06:34 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/op_admin/tmp/bind_err_28857
+
+23:06:34 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/op_admin/tmp/dll_build.1918
+
+23:06:34 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/op_admin/tmp/repbind.1918
+
+23:06:34 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/op_admin/tmp/bind_err_28857
+
+23:06:34 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	/bin/mv -f /home/drubino000/op_admin/tmp/dll_build.1918 /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall.dev64.i1.nt.so 
+
+23:06:34 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/op_models/JF_DR_Manet_Project-NoFirewall-DES-1.ot
+
+23:06:34 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project_NoFirewall_DES_1_security_results.ot
+
+23:06:34 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project_NoFirewall_DES_1_security_results.ot
+
+23:06:36 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	/bin/mv -f /home/drubino000/op_models/JF_DR_Manet_Project-NoFirewall-DES-1.ot /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/tmp0-JF_DR_Manet_Project-NoFirewall-DES-1.ot 
+
+23:06:36 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	/bin/mv -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/tmp0-JF_DR_Manet_Project-NoFirewall-DES-1.ot /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ot 
+
+23:06:36 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1_data.of
+
+23:13:03 Fri Dec 04 2020: modeler issued the following command:
+	STARTED PRESERVING SCENARIO: NoFirewall
+	IN PROJECT: JF_DR_Manet_Project
+
+23:13:03 Fri Dec 04 2020: modeler issued the following command:
+	FINISHED PRESERVING SCENARIO: NoFirewall
+
+23:13:03 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ov
+
+23:13:03 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ot
+
+23:13:03 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ah
+
+23:13:03 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ef
+
+23:13:03 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.desinfo
+
+23:13:04 Fri Dec 04 2020: modeler issued the following command:
+	/usr/riverbed/18.6/sys/pc_intel_linux64/bin/op_runsim -net_name JF_DR_Manet_Project-NoFirewall -noprompt -ef JF_DR_Manet_Project-NoFirewall-DES-1 -DESinfo JF_DR_Manet_Project-NoFirewall-DES-1 -exec_id 1 -mgr_id 1 -opnet_port 35816 -parent_pid 28857 -tfile_dir_cache ignore -pipe_stdin 
+
+23:13:04 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.olf.dir/3311_12-05-2020_04.13.04.ot
+
+23:13:04 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall.dev64.i1.nt.so
+
+23:13:04 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/op_admin/tmp/bind_err_28857
+
+23:13:04 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/op_admin/tmp/dll_build.3313
+
+23:13:05 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/op_admin/tmp/repbind.3313
+
+23:13:05 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/op_admin/tmp/bind_err_28857
+
+23:13:05 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	/bin/mv -f /home/drubino000/op_admin/tmp/dll_build.3313 /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall.dev64.i1.nt.so 
+
+23:13:05 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/op_models/JF_DR_Manet_Project-NoFirewall-DES-1.ot
+
+23:13:05 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project_NoFirewall_DES_1_security_results.ot
+
+23:13:05 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project_NoFirewall_DES_1_security_results.ot
+
+23:13:06 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	/bin/mv -f /home/drubino000/op_models/JF_DR_Manet_Project-NoFirewall-DES-1.ot /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/tmp0-JF_DR_Manet_Project-NoFirewall-DES-1.ot 
+
+23:13:06 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	/bin/mv -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/tmp0-JF_DR_Manet_Project-NoFirewall-DES-1.ot /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ot 
+
+23:13:06 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1_data.of
+
+23:18:10 Fri Dec 04 2020: modeler issued the following command:
+	STARTED PRESERVING SCENARIO: NoFirewall
+	IN PROJECT: JF_DR_Manet_Project
+
+23:18:10 Fri Dec 04 2020: modeler issued the following command:
+	FINISHED PRESERVING SCENARIO: NoFirewall
+
+23:18:11 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ov
+
+23:18:11 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ot
+
+23:18:11 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ah
+
+23:18:11 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ef
+
+23:18:11 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.desinfo
+
+23:18:12 Fri Dec 04 2020: modeler issued the following command:
+	/usr/riverbed/18.6/sys/pc_intel_linux64/bin/op_runsim -net_name JF_DR_Manet_Project-NoFirewall -noprompt -ef JF_DR_Manet_Project-NoFirewall-DES-1 -DESinfo JF_DR_Manet_Project-NoFirewall-DES-1 -exec_id 1 -mgr_id 1 -opnet_port 33678 -parent_pid 28857 -tfile_dir_cache ignore -pipe_stdin 
+
+23:18:12 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.olf.dir/4412_12-05-2020_04.18.12.ot
+
+23:18:12 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall.dev64.i1.nt.so
+
+23:18:12 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/op_admin/tmp/bind_err_28857
+
+23:18:12 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/op_admin/tmp/dll_build.4413
+
+23:18:13 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/op_admin/tmp/repbind.4413
+
+23:18:13 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/op_admin/tmp/bind_err_28857
+
+23:18:13 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	/bin/mv -f /home/drubino000/op_admin/tmp/dll_build.4413 /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall.dev64.i1.nt.so 
+
+23:18:13 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/op_models/JF_DR_Manet_Project-NoFirewall-DES-1.ot
+
+23:18:13 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project_NoFirewall_DES_1_security_results.ot
+
+23:18:13 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project_NoFirewall_DES_1_security_results.ot
+
+23:18:14 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	/bin/mv -f /home/drubino000/op_models/JF_DR_Manet_Project-NoFirewall-DES-1.ot /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/tmp0-JF_DR_Manet_Project-NoFirewall-DES-1.ot 
+
+23:18:14 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	/bin/mv -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/tmp0-JF_DR_Manet_Project-NoFirewall-DES-1.ot /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ot 
+
+23:18:14 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1_data.of
+
+23:24:47 Fri Dec 04 2020: modeler issued the following command:
+	STARTED PRESERVING SCENARIO: NoFirewall
+	IN PROJECT: JF_DR_Manet_Project
+
+23:24:48 Fri Dec 04 2020: modeler issued the following command:
+	FINISHED PRESERVING SCENARIO: NoFirewall
+
+23:24:48 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ov
+
+23:24:48 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ot
+
+23:24:48 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ah
+
+23:24:48 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ef
+
+23:24:48 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.desinfo
+
+23:24:49 Fri Dec 04 2020: modeler issued the following command:
+	/usr/riverbed/18.6/sys/pc_intel_linux64/bin/op_runsim -net_name JF_DR_Manet_Project-NoFirewall -noprompt -ef JF_DR_Manet_Project-NoFirewall-DES-1 -DESinfo JF_DR_Manet_Project-NoFirewall-DES-1 -exec_id 1 -mgr_id 1 -opnet_port 42874 -parent_pid 28857 -tfile_dir_cache ignore -pipe_stdin 
+
+23:24:49 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.olf.dir/5866_12-05-2020_04.24.49.ot
+
+23:24:49 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall.dev64.i1.nt.so
+
+23:24:49 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/op_admin/tmp/bind_err_28857
+
+23:24:49 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/op_admin/tmp/dll_build.5867
+
+23:24:50 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/op_admin/tmp/repbind.5867
+
+23:24:50 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/op_admin/tmp/bind_err_28857
+
+23:24:50 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	/bin/mv -f /home/drubino000/op_admin/tmp/dll_build.5867 /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall.dev64.i1.nt.so 
+
+23:24:50 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/op_models/JF_DR_Manet_Project-NoFirewall-DES-1.ot
+
+23:24:50 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project_NoFirewall_DES_1_security_results.ot
+
+23:24:50 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project_NoFirewall_DES_1_security_results.ot
+
+23:24:51 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	/bin/mv -f /home/drubino000/op_models/JF_DR_Manet_Project-NoFirewall-DES-1.ot /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/tmp0-JF_DR_Manet_Project-NoFirewall-DES-1.ot 
+
+23:24:51 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	/bin/mv -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/tmp0-JF_DR_Manet_Project-NoFirewall-DES-1.ot /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ot 
+
+23:24:51 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1_data.of
+
+23:27:01 Fri Dec 04 2020: modeler issued the following command:
+	STARTED PRESERVING SCENARIO: NoFirewall
+	IN PROJECT: JF_DR_Manet_Project
+
+23:27:02 Fri Dec 04 2020: modeler issued the following command:
+	FINISHED PRESERVING SCENARIO: NoFirewall
+
+23:27:02 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ov
+
+23:27:02 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ot
+
+23:27:02 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ah
+
+23:27:02 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ef
+
+23:27:02 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.desinfo
+
+23:27:03 Fri Dec 04 2020: modeler issued the following command:
+	/usr/riverbed/18.6/sys/pc_intel_linux64/bin/op_runsim -net_name JF_DR_Manet_Project-NoFirewall -noprompt -ef JF_DR_Manet_Project-NoFirewall-DES-1 -DESinfo JF_DR_Manet_Project-NoFirewall-DES-1 -exec_id 1 -mgr_id 1 -opnet_port 33097 -parent_pid 28857 -tfile_dir_cache ignore -pipe_stdin 
+
+23:27:03 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.olf.dir/6615_12-05-2020_04.27.03.ot
+
+23:27:03 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall.dev64.i1.nt.so
+
+23:27:03 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/op_admin/tmp/bind_err_28857
+
+23:27:03 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/op_admin/tmp/dll_build.6620
+
+23:27:04 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/op_admin/tmp/repbind.6620
+
+23:27:04 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/op_admin/tmp/bind_err_28857
+
+23:27:04 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	/bin/mv -f /home/drubino000/op_admin/tmp/dll_build.6620 /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall.dev64.i1.nt.so 
+
+23:27:04 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/op_models/JF_DR_Manet_Project-NoFirewall-DES-1.ot
+
+23:27:04 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project_NoFirewall_DES_1_security_results.ot
+
+23:27:04 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project_NoFirewall_DES_1_security_results.ot
+
+23:27:04 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	/bin/mv -f /home/drubino000/op_models/JF_DR_Manet_Project-NoFirewall-DES-1.ot /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/tmp0-JF_DR_Manet_Project-NoFirewall-DES-1.ot 
+
+23:27:04 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	/bin/mv -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/tmp0-JF_DR_Manet_Project-NoFirewall-DES-1.ot /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ot 
+
+23:27:04 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1_data.of
+
+23:30:21 Fri Dec 04 2020: modeler issued the following command:
+	STARTED PRESERVING SCENARIO: NoFirewall
+	IN PROJECT: JF_DR_Manet_Project
+
+23:30:21 Fri Dec 04 2020: modeler issued the following command:
+	FINISHED PRESERVING SCENARIO: NoFirewall
+
+23:30:22 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ov
+
+23:30:22 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ot
+
+23:30:22 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ah
+
+23:30:22 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ef
+
+23:30:22 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.desinfo
+
+23:30:22 Fri Dec 04 2020: modeler issued the following command:
+	/usr/riverbed/18.6/sys/pc_intel_linux64/bin/op_runsim -net_name JF_DR_Manet_Project-NoFirewall -noprompt -ef JF_DR_Manet_Project-NoFirewall-DES-1 -DESinfo JF_DR_Manet_Project-NoFirewall-DES-1 -exec_id 1 -mgr_id 1 -opnet_port 35906 -parent_pid 28857 -tfile_dir_cache ignore -pipe_stdin 
+
+23:30:22 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.olf.dir/7424_12-05-2020_04.30.22.ot
+
+23:30:23 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall.dev64.i1.nt.so
+
+23:30:23 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/op_admin/tmp/bind_err_28857
+
+23:30:23 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/op_admin/tmp/dll_build.7425
+
+23:30:23 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/op_admin/tmp/repbind.7425
+
+23:30:23 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/op_admin/tmp/bind_err_28857
+
+23:30:23 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	/bin/mv -f /home/drubino000/op_admin/tmp/dll_build.7425 /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall.dev64.i1.nt.so 
+
+23:30:23 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/op_models/JF_DR_Manet_Project-NoFirewall-DES-1.ot
+
+23:30:23 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project_NoFirewall_DES_1_security_results.ot
+
+23:30:23 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project_NoFirewall_DES_1_security_results.ot
+
+23:30:24 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	/bin/mv -f /home/drubino000/op_models/JF_DR_Manet_Project-NoFirewall-DES-1.ot /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/tmp0-JF_DR_Manet_Project-NoFirewall-DES-1.ot 
+
+23:30:24 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	/bin/mv -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/tmp0-JF_DR_Manet_Project-NoFirewall-DES-1.ot /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ot 
+
+23:30:24 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1_data.of
+
+23:34:25 Fri Dec 04 2020: modeler issued the following command:
+	STARTED PRESERVING SCENARIO: NoFirewall
+	IN PROJECT: JF_DR_Manet_Project
+
+23:34:26 Fri Dec 04 2020: modeler issued the following command:
+	FINISHED PRESERVING SCENARIO: NoFirewall
+
+23:34:27 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ov
+
+23:34:27 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ot
+
+23:34:27 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ah
+
+23:34:27 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ef
+
+23:34:27 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.desinfo
+
+23:34:27 Fri Dec 04 2020: modeler issued the following command:
+	/usr/riverbed/18.6/sys/pc_intel_linux64/bin/op_runsim -net_name JF_DR_Manet_Project-NoFirewall -noprompt -ef JF_DR_Manet_Project-NoFirewall-DES-1 -DESinfo JF_DR_Manet_Project-NoFirewall-DES-1 -exec_id 1 -mgr_id 1 -opnet_port 37459 -parent_pid 28857 -tfile_dir_cache ignore -pipe_stdin 
+
+23:34:27 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.olf.dir/8351_12-05-2020_04.34.27.ot
+
+23:34:28 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall.dev64.i1.nt.so
+
+23:34:28 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/op_admin/tmp/bind_err_28857
+
+23:34:28 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/op_admin/tmp/dll_build.8352
+
+23:34:28 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/op_admin/tmp/repbind.8352
+
+23:34:28 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/op_admin/tmp/bind_err_28857
+
+23:34:28 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	/bin/mv -f /home/drubino000/op_admin/tmp/dll_build.8352 /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall.dev64.i1.nt.so 
+
+23:34:29 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/op_models/JF_DR_Manet_Project-NoFirewall-DES-1.ot
+
+23:34:29 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project_NoFirewall_DES_1_security_results.ot
+
+23:34:29 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project_NoFirewall_DES_1_security_results.ot
+
+23:34:29 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	/bin/mv -f /home/drubino000/op_models/JF_DR_Manet_Project-NoFirewall-DES-1.ot /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/tmp0-JF_DR_Manet_Project-NoFirewall-DES-1.ot 
+
+23:34:29 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	/bin/mv -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/tmp0-JF_DR_Manet_Project-NoFirewall-DES-1.ot /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ot 
+
+23:34:29 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1_data.of
+
+23:34:48 Fri Dec 04 2020: modeler issued the following command:
+	STARTED PRESERVING SCENARIO: NoFirewall
+	IN PROJECT: JF_DR_Manet_Project
+
+23:34:48 Fri Dec 04 2020: modeler issued the following command:
+	FINISHED PRESERVING SCENARIO: NoFirewall
+
+23:34:48 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ov
+
+23:34:48 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ot
+
+23:34:48 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ah
+
+23:34:48 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ef
+
+23:34:48 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.desinfo
+
+23:34:49 Fri Dec 04 2020: modeler issued the following command:
+	/usr/riverbed/18.6/sys/pc_intel_linux64/bin/op_runsim -net_name JF_DR_Manet_Project-NoFirewall -noprompt -ef JF_DR_Manet_Project-NoFirewall-DES-1 -DESinfo JF_DR_Manet_Project-NoFirewall-DES-1 -exec_id 1 -mgr_id 1 -opnet_port 46391 -parent_pid 28857 -tfile_dir_cache ignore -pipe_stdin 
+
+23:34:49 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.olf.dir/8636_12-05-2020_04.34.49.ot
+
+23:34:50 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/op_models/JF_DR_Manet_Project-NoFirewall-DES-1.ot
+
+23:34:50 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project_NoFirewall_DES_1_security_results.ot
+
+23:34:50 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project_NoFirewall_DES_1_security_results.ot
+
+23:34:51 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	/bin/mv -f /home/drubino000/op_models/JF_DR_Manet_Project-NoFirewall-DES-1.ot /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/tmp0-JF_DR_Manet_Project-NoFirewall-DES-1.ot 
+
+23:34:51 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	/bin/mv -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/tmp0-JF_DR_Manet_Project-NoFirewall-DES-1.ot /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1.ot 
+
+23:34:51 Fri Dec 04 2020: op_runsim_dev issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-NoFirewall-DES-1_data.of
+
+23:39:08 Fri Dec 04 2020: modeler issued the following command:
+	STARTED BACKING UP SCENARIO: NoFirewall
+	IN PROJECT: JF_DR_Manet_Project
+
+23:39:09 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/op_admin/bk/JF_DR_Manet_Project-NoFirewall_bk.nt.m
+
+23:39:09 Fri Dec 04 2020: modeler issued the following command:
+	/bin/mv -f /home/drubino000/op_models/JF_DR_Manet_Project-NoFirewall_bk28857.nt.m /home/drubino000/op_admin/bk/JF_DR_Manet_Project-NoFirewall_bk.nt.m 
+
+23:39:09 Fri Dec 04 2020: modeler issued the following command:
+	/bin/mv -f /home/drubino000/op_models/JF_DR_Manet_Project-NoFirewall_bk28857.pps.m /home/drubino000/op_admin/bk/JF_DR_Manet_Project-NoFirewall_bk.pps.m 
+
+23:39:09 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/op_admin/bk/JF_DR_Manet_Project-NoFirewall_bk.pb.m
+
+23:39:09 Fri Dec 04 2020: modeler issued the following command:
+	/bin/mv -f /home/drubino000/op_models/JF_DR_Manet_Project-NoFirewall_bk28857.pb.m /home/drubino000/op_admin/bk/JF_DR_Manet_Project-NoFirewall_bk.pb.m 
+
+23:39:09 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/op_admin/bk/JF_DR_Manet_Project-NoFirewall_bk.seq
+
+23:39:09 Fri Dec 04 2020: modeler issued the following command:
+	/bin/mv -f /home/drubino000/op_models/JF_DR_Manet_Project-NoFirewall_bk28857.seq /home/drubino000/op_admin/bk/JF_DR_Manet_Project-NoFirewall_bk.seq 
+
+23:39:09 Fri Dec 04 2020: modeler issued the following command:
+	/bin/mv -f /home/drubino000/op_models/JF_DR_Manet_Project-NoFirewall_bk28857.ac /home/drubino000/op_admin/bk/JF_DR_Manet_Project-NoFirewall_bk.ac 
+
+23:39:09 Fri Dec 04 2020: modeler issued the following command:
+	FINISHED BACKING UP SCENARIO: NoFirewall
+
+23:39:09 Fri Dec 04 2020: modeler issued the following command:
+	STARTED BACKING UP PROJECT: JF_DR_Manet_Project
+
+23:39:09 Fri Dec 04 2020: modeler issued the following command:
+	/bin/mv -f /home/drubino000/op_models/JF_DR_Manet_Project_bk28857.prj /home/drubino000/op_admin/bk/JF_DR_Manet_Project_bk.prj 
+
+23:39:09 Fri Dec 04 2020: modeler issued the following command:
+	FINISHED BACKING UP PROJECT: JF_DR_Manet_Project
+
+23:39:16 Fri Dec 04 2020: modeler issued the following command:
+	STARTED SAVING PROJECT: JF_DR_Manet_Project
+
+23:39:16 Fri Dec 04 2020: modeler issued the following command:
+	/bin/cp -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project.prj /home/drubino000/op_admin/bk/JF_DR_Manet_Project_bk6.prj 
+
+23:39:16 Fri Dec 04 2020: modeler issued the following command:
+	/bin/mv -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall.nt.m /home/drubino000/op_admin/bk/JF_DR_Manet_Project-NoFirewall_bk6.nt.m 
+
+23:39:16 Fri Dec 04 2020: modeler issued the following command:
+	/bin/mv -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall.pb.m /home/drubino000/op_admin/bk/JF_DR_Manet_Project-NoFirewall_bk6.pb.m 
+
+23:39:16 Fri Dec 04 2020: modeler issued the following command:
+	/bin/mv -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall.seq /home/drubino000/op_admin/bk/JF_DR_Manet_Project-NoFirewall_bk6.seq 
+
+23:39:16 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall-DES-1.ov
+
+23:39:16 Fri Dec 04 2020: modeler issued the following command:
+	/bin/mv -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall-DES-1.ot /home/drubino000/op_admin/bk/JF_DR_Manet_Project-NoFirewall-DES-1_bk6.ot 
+
+23:39:16 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall-DES-1.ah
+
+23:39:16 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall.dev64.i1.nt.so
+
+23:39:16 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall-DES-1.ef
+
+23:39:16 Fri Dec 04 2020: modeler issued the following command:
+	/bin/cp -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall-DES-1.olf.dir/19648_12-05-2020_02.59.46.ot /home/drubino000/op_admin/bk/JF_DR_Manet_Project-NoFirewall-DES-1_bk6.olf.dir/19648_12-05-2020_02.59.46.ot 
+
+23:39:16 Fri Dec 04 2020: modeler issued the following command:
+	/bin/cp -f /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall-DES-1.olf.dir/log_info /home/drubino000/op_admin/bk/JF_DR_Manet_Project-NoFirewall-DES-1_bk6.olf.dir/log_info 
+
+23:39:16 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/opnetProject/op_models/JF_DR_Manet_Project.project/JF_DR_Manet_Project-#NoFirewall-DES-1.desinfo
+
+23:39:16 Fri Dec 04 2020: modeler issued the following command:
+	FINISHED SAVING PROJECT: JF_DR_Manet_Project
+
+
+23:39:20 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/op_admin/tmp/oppy_stdout_28857.tmp
+
+23:39:20 Fri Dec 04 2020: modeler issued the following command:
+	REMOVE /home/drubino000/op_admin/tmp/oppy_stderr_28857.tmp
+
